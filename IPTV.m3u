@@ -636,7 +636,7 @@ https://ngtv-live-fifa-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd&k
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 https://ngtv-live-fifa-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
-#EXTINF:-1 tvg-id="704" tvg-logo="hhttps://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=539" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
+#EXTINF:-1 tvg-id="704" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=539" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
 #EXTVLCOPT:http-referrer=https://unifitv.com.my/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
