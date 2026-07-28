@@ -48,20 +48,26 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="FIFA WC 1.rtm" tvg-logo="https://rtm-images.glueapi.io/420x0/system/FIFA-WC-1-Dolby.png" group-title="RTM Klik",FIFA WC 1
-https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo1.png" group-title="RTM Klik",Komanwel 1
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg1/HLS/cg1.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="FIFA WC 2.rtm" tvg-logo="https://rtm-images.glueapi.io/420x0/system/FIFA-WC-2-Dolby.png" group-title="RTM Klik",FIFA WC 2
-https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo2.png" group-title="RTM Klik",Komanwel 2
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg2/HLS/cg2.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="FIFA WC 3.rtm" tvg-logo="https://rtm-images.glueapi.io/420x0/system/FIFA-WC-3-Dolby.png" group-title="RTM Klik",FIFA WC 3
-https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo3.png" group-title="RTM Klik",Komanwel 3
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/HLS/cg3.m3u8
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo4.png" group-title="RTM Klik",Komanwel 4
+https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/HLS/cg4.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
