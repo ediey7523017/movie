@@ -48,30 +48,6 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo1.png" group-title="RTM Klik",Komanwel 1
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg1/DASH/cg1.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo2.png" group-title="RTM Klik",Komanwel 2
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg2/DASH/cg2.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo3.png" group-title="RTM Klik",Komanwel 3
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/DASH/cg3.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/640x0/live_channel/CommonwealthLogo4.png" group-title="RTM Klik",Komanwel 4
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/DASH/cg4.mpd
-
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_Trans.png" group-title="RTM Klik",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
