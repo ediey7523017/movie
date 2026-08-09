@@ -92,6 +92,9 @@ https://fav.larhu.website/hls/vxzxgkkzqoqfycihmtl7zr5gbkg5443thbbges2f3rof2yb77q
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/egLUPL96vSKd3qhNVc6RTBBg0g.jpg" group-title="▶ VOD BOLLYWOOD",Ishq Forever (2016)
 https://fav.larhu.website/hls/vxzxhlf7qoqfycihmtk7zb7hjzmni5j7vfknjt4hs4e7ffodb6bwqmrogmiq/index.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/obwjlgNI2NFZupMuJBbKgH3IhQp.jpg" group-title="▶ VOD BOLLYWOOD",Dostana (2008)
+https://www.dropbox.com/scl/fi/rzvq6mlsaiapgotiyd2wc/Dostana.mp4?rlkey=6d3xuk0k1dq1x95jj4y9s3o3d&st=qnlmaq3p&dl=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/e5zFYX3hW1TNeFCzRw7ET2DxRPm.jpg" group-title="▶ VOD BOLLYWOOD",Vivah (2006)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Vivah%20(2006).mp4
 
@@ -2403,3 +2406,4 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4549.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAXEN7fh5iaU69nBiQU2HXt7bb.jpg" group-title="▶ VOD INDIA",Vittalwadi (2021)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4550.mp4
+
