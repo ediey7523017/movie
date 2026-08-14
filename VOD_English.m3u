@@ -1454,14 +1454,20 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg" group-title="▶ VOD ENGLISH",Freelance (2023)
 https://www.dropbox.com/scl/fi/le5av4j2z7dist36o9r8u/Freelance.mp4?rlkey=yax9obi60lht71tbmktnt2v0s&st=j9xhfvq2&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg", The Family Plan (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg" group-title="▶ VOD ENGLISH", The Family Plan (2023)
 https://www.dropbox.com/scl/fi/y95bii42ue0as7o6akw0t/The-Family-Plan.mp4?rlkey=i1ob6t2iwalg483m6l7mg671l&st=zgfv1jgy&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hpXkIuAlIlcNYACRE2MssxnHvZQ.jpg", The 33 (2015)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hpXkIuAlIlcNYACRE2MssxnHvZQ.jpg" group-title="▶ VOD ENGLISH", The 33 (2015)
 https://www.dropbox.com/scl/fi/j0fxag713gbw1zu0x3vj0/The-33.mp4?rlkey=yryxi9edgcuexudde0jm8dtpr&st=1h22nqef&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuIWl90qCpoxv6g775JB6Kg0m86.jpg", Superfast! (2015)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuIWl90qCpoxv6g775JB6Kg0m86.jpg" group-title="▶ VOD ENGLISH", Superfast! (2015)
 https://www.dropbox.com/scl/fi/kuvvt6lf1ojhsxgbwu3vh/Superfast.mp4?rlkey=w2xikanyd4sv5p3zj3smcqp95&st=8t8rfprg&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="▶ VOD ENGLISH",Lift (2024)
+https://www.dropbox.com/scl/fi/4hqmrlcbzdi01qr7r4pie/Lift.mp4?rlkey=vi7l0e58pzoksu8kbvqgaunb0&st=0k6r2fsh&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg" group-title="▶ VOD ENGLISH", A Star Is Born (2018)
+https://www.dropbox.com/scl/fi/reui3997yw82qiwi83qut/A.Star.is.Born.2018.mp4?rlkey=1vpzt8w6tac4lob4tg3j7j616&st=s0uw71go&dl=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg" group-title="▶ VOD ENGLISH",Silent Zone (2025)
@@ -1546,8 +1552,6 @@ http://103.107.198.46:8080/movie/vip_3klp0es8/wg3piwEs/4062.mp4
 http://103.107.198.46:8080/movie/vip_3klp0es8/wg3piwEs/4066.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg" group-title="▶ VOD ENGLISH",Silent Night (2023)
 http://103.107.198.46:8080/movie/vip_3klp0es8/wg3piwEs/4067.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="▶ VOD ENGLISH",Lift (2024)
-https://worker-kasyah.buntai.workers.dev/0:/movie/English/Lift.2024.1080p.WEB-DL.MalaySub.bymovieclub.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="▶ VOD ENGLISH",The Shift (2023)
 http://103.107.198.46:8080/movie/vip_3klp0es8/wg3piwEs/4096.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq5fQ8go2M66OsvkRZGUIrtuchz.jpg" group-title="▶ VOD ENGLISH",Punch (2023)
@@ -1614,8 +1618,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/The.Kitche
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Wonka.2023.1080p.WEB-DL.EngSub.bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg", We Bought a Zoo (2011)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/We%20Bought%20a%20Zoo.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg", A Star Is Born (2018)
-https://worker-kasyah.buntai.workers.dev/0:/movie/English/A%20star%20is%20born%20(2018)720p%20bluray%20Malayhardsub.m4v
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg", Role Play (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/English/Role.Play.2024.1080p.WEB-DL.MalaySub.bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jsOaCojcuxktg8w1UQkoFfn1y1g.jpg", The Jester (2023)
