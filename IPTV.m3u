@@ -758,7 +758,13 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 
 ################################################################### Astro ###############################################################
 
-#EXTINF:-1 tvg-id="astro395" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",101 TV1 HD
+#EXTINF:-1 tvg-id="astro622" group-title="Astro Base" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 Astro30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro395" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
