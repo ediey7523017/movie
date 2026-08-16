@@ -1214,7 +1214,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="HBOSignatureHD.sg" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/51.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
