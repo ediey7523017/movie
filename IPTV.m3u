@@ -1542,7 +1542,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41U_H0xdxE2v7sEaKBUpdK40RRXWE7zZYk6_4rPhWw5C8=wftz/dash-wv/jitp-dashisowm/5099/default_primary.mpd?aws.sessionId=0306890a-8d7c-40ec-8130-9b32f6a98af0
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41U_H0xdxE2v7sEaKBUpdK42iLxM29Iah5BebfIsFVkto=BJba/dash-wv/jitp-dashisowm/5099/default_primary.mpd?aws.sessionId=123dfd36-3391-42fc-8772-e5572cd1be65
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro487" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2
@@ -1586,7 +1586,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5118/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/41RQx4PiH7uDuNeQnn_GK6Cz7G8wBLlRZdBko8CB72jmA=Ygo4/dash-wv/jitp-dashisowm/2701/default_primary.mpd?aws.sessionId=9ef9bcbb-860b-4895-b76e-7eef57e734e6
+https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/41RQx4PiH7uDuNeQnn_GK6C1NQQAmUNcYc5vi07RY_Sqo=gZZB/dash-wv/jitp-dashisowm/2701/default_primary.mpd?aws.sessionId=1dc9a048-9029-4c14-b71d-6ad5ef4ddb2a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League
@@ -1617,7 +1617,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41C-b2zJMQsIWFnpLz1Y3pdxeMAI-Dc5x5wqF1sj0W2Kg=g92J/dash-wv/jitp-dashisowm/5170/default_primary.mpd?aws.sessionId=2440f84b-208b-42e8-bb79-46acc7d048d9
+https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41C-b2zJMQsIWFnpLz1Y3pdz-E2T4-YrpBHRFTXgTS5fY=kZBQ/dash-wv/jitp-dashisowm/5170/default_primary.mpd?aws.sessionId=766ae875-a990-447c-9306-b4b42d102c09
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=badminton1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 
@@ -1649,14 +1649,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41RzlfyNlv70__ShdhqI6ny-Cu2vD_QQmKFsQ0WyGXDsQ=mh_4/dash-wv/jitp-linearwm/408/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41RzlfyNlv70__ShdhqI6ny3oG7Hr4UKLf0PtS7WHOzUA=Oogg/dash-wv/jitp-linearwm/408/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41181DXn8LK0ABYk-9vGnrc1QLlI2hl58l5xv2cFEXSKI=B_vD/dash-wv/jitp-linearwm/5066/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41181DXn8LK0ABYk-9vGnrc8PkT5w_D7gfLltddoUv5VQ=VMt2/dash-wv/jitp-linearwm/5066/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro313" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
