@@ -3,19 +3,33 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hrbzPEGyu33JyepFvSe6EkN35yq.jpg" group-title="▶ VOD ASEAN",Chompoo Lost​ &​ Forgotten​(2026)
+https://stream.playcdn.de/playlist/b1cfdc1481a93e745acc3a000c7c0700/1/0.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/brdsfjePxwKwajeonKCgIyqsDoU.jpg" group-title="▶ VOD ASEAN",Sunshine Women's Choir (2025)
+https://stream.playcdn.de/playlist/93068f57f10c2bb595dbe95a4ce04cce/1/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4asJAxshXzQriox6tnIoEnWN1nu.jpg" group-title="▶ VOD ASEAN",Resurrection (2025)
+https://stream.playcdn.de/playlist/ed515ff094eeddc90f4f04e59c44d177/1/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yH2sGLdQejqf3Zk8KDuoDa5gr6E.jpg" group-title="▶ VOD ASEAN",The Eyes (2026)
+https://stream.playcdn.de/playlist/JwEsPWhLR3N0fCAJAXQaBxonfHxyGkV2dDc/43/480.m3u8
 https://www.dropbox.com/scl/fi/ldeml53nj1szf9exwttcv/The.Eyes.2026.mp4?rlkey=qtk6971kgf2re8080h3igyijc&st=ra4t6x6z&dl=0
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg" group-title="▶ VOD ASEAN",Wild Sing (2026)
+https://stream.playcdn.de/playlist/NRElKmgKHi8lfEV8cQZ7Dwc6DQIaISgkd2dDKHRUNw/43/480.m3u8
 https://www.dropbox.com/scl/fi/6drzw1nx4p7a9r9loqlvt/Wild.Sing.2026.mp4?rlkey=h8cvd5halx985ph5i5dhjiguz&st=myu19tde&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tN799oUR0f1gUKDYdMNrDaY7I51.jpg" group-title="▶ VOD ASEAN",Colony (2026)
+https://stream.playcdn.de/playlist/IRclISsAWnNyY0FhFHUUHA4nERFzTBR1dzBEeA/42/480.m3u8
 https://www.dropbox.com/scl/fi/wsdas9z0ytlrlv9joktyl/Colony.2026.mp4?rlkey=xt2cnjoh2tnrov3lf4yfl0nbw&st=zhyzieyj&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jccJeAT7ZvO2kYMtT2f9mDVVE3R.jpg" group-title="▶ VOD ASEAN",Miss Match (2026)
+https://stream.playcdn.de/playlist/LxE6PWgUFjUhOVp-cwJgdRU9CwoJJi8ed2YRfnZVMD4/42/480.m3u8
 https://www.dropbox.com/scl/fi/bdwj6yru4t4rgpo5pqvv3/Miss-Match-2026.mp4?rlkey=aibxppa2lam8c4yh9ypri8oyh&st=6cp3a4pt&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5plgPtzwuIHUKMN044igzRkbd90.jpg" group-title="▶ VOD ASEAN",Wonderful Nightmare (2026)
+https://stream.playcdn.de/playlist/NRcnKiALETQufBklJFgiNSMKLGN3SUV3bwYyDgd8CQAdHn93cUBEJyE/42/480.m3u8
 https://www.dropbox.com/scl/fi/7rva26mufdq4vzxu0z7d7/Wonderful-Nightmare-2025.mp4?rlkey=blohh8t65pvfbnwzw315qk98g&st=dznm736c&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/y1aTtWkMjgKgkNa6Zxs3kmxje21.jpg" group-title="▶ VOD ASEAN",Mulu Nakru (2025)
@@ -24,20 +38,24 @@ https://www.dropbox.com/scl/fi/chgfzep3ji4spmhgkpki2/Mulu-Nakru-2025.mp4?rlkey=4
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hP7T0BT6z9sBcPZnAma9vIy0MDi.jpg" group-title="▶ VOD ASEAN",Fengmen Village Horror (2025)
 https://www.dropbox.com/scl/fi/ehnwhqdc8pnvvvamnvn7n/Fengmen-Village-Horror-2025.mp4?rlkey=5gmqdtddwdrspxwk6ljnj7is3&st=ahm4gk9f&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/acrlZuaS7ypiEUb3oZRA28Ox7TV.jpg" group-title="▶ VOD ASEAN",The Housemaid (2010)
-https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Housemaid%20(2010)-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uLU1Gwq8xLUjBax2JI4G2JC85ML.jpg" group-title="▶ VOD ASEAN",Secret Reunion (2010)
+https://stream.playcdn.de/playlist/7a19f5ebb2d3639354b7ab752174c8e1/21/480.m3u8
 https://www.dropbox.com/scl/fi/uti48wfgbn4z1xa9oobkh/secret-reunion-2010.mp4?rlkey=u1d5jpgjyjyacmj7pqe9b9mgm&st=16qegvpl&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gK49vFRDYOW6dVU8WdqzJARVDiz.jpg" group-title="▶ VOD ASEAN",What a Man Wants (2018)
+https://stream.playcdn.de/playlist/a742346f72c001cd7e40cd7dc7665c01/11/480.m3u8
 https://www.dropbox.com/scl/fi/198is63smw4p601zykjvq/What-A-Man-Wants-2018.mp4?rlkey=skf5m84v8r6y2vp256ttfsifq&st=pemaarxu&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wfzdB9MCXtlXwiZGHfGuXUtMrii.jpg" group-title="▶ VOD ASEAN",One Thing She Doesnt Have (2014)
+https://stream.playcdn.de/playlist/7e7cd9f72e15f4244cd58dc2b2dd46fa/18/480.m3u8
 https://www.dropbox.com/scl/fi/j7kj1uapi9deup08mqfwd/one-thing-she-doesnt-have-2014.mp4?rlkey=9h8895k2h8vbb4ef11h21pjez&st=wchs09er&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yQgGYiHUoDYeA4TbYlghpA5lmKH.jpg" group-title="▶ VOD ASEAN",Love and Leashes (2022)
+https://stream.playcdn.de/playlist/efe08dfda526dffd3cd24fcb36eb6bfe/5/480.m3u8
 https://www.dropbox.com/scl/fi/rt9solg1v8i4j5j946m7j/Love-and-Leashes-2022.mp4?rlkey=uhc36crro4lqe2fstlqb2uqbd&st=93k4sx7z&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/acrlZuaS7ypiEUb3oZRA28Ox7TV.jpg" group-title="▶ VOD ASEAN",The Housemaid (2010)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Housemaid%20(2010)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oz8hvZHg7tIdGwh0ErPRhobJKPR.jpg" group-title="▶ VOD ASEAN",The Call (2020)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru54/The%20Call%202020-1-720.mp4
@@ -50,7 +68,6 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Followi
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/x86xaUnxU31JYiwlO35corDEV1i.jpg" group-title="▶ VOD ASEAN",Broker (2022)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Broker%20(2022)-1-720.mp4
-https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Broker%202022ok.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1yqUrXgGOF3StwFc2d2buWe39vr.jpg" group-title="▶ VOD ASEAN",Vanishing Time A Boy Who Returned (2016)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Vanishing%20Time%20A%20Boy%20Who%20Returned%202016.mp4
@@ -65,15 +82,19 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Voice%20of%
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Master%202016-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2jHVZPP9PUDGoA0gSC4fxrTska0.jpg" group-title="▶ VOD ASEAN",Haunters (2010)
+https://stream.playcdn.de/playlist/e369201ce8b71e209edc8dc386c574d7/23/480.m3u8
 https://www.dropbox.com/scl/fi/p7bym3qwx7kne7wrh6t5p/Haunters.mp4?rlkey=qxs51amtqcs99xcq0i4qxghny&st=8e8bd4c5&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eDYlYEkTbuwoYAA2EgMb9VlRGYh.jpg" group-title="▶ VOD ASEAN",Illang The Wolf Brigade (2018)
+https://stream.playcdn.de/playlist/22e4f52db7a98d4e77e67ade07f1c302/5/480.m3u8
 https://www.dropbox.com/scl/fi/ufzzq42848nag6mdbcbpp/Illang-The-Wolf-Brigade.mp4?rlkey=qd3330c3dut43ztryt8ig8200&st=v93zxg4s&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g4W8RsmWdDXFNMzOCd2DrLyvUsH.jpg" group-title="▶ VOD ASEAN",Dr. Cheon and the Lost Talisman (2023)
+https://stream.playcdn.de/playlist/fae922ec0be7e56a274a2e3cff1b46b3/26/480.m3u8
 https://www.dropbox.com/scl/fi/ha4jsorhzziazligntsm6/Dr.-Cheon-and-the-Lost-Talisman.mp4?rlkey=yah8ppngivz8y9hpbkir8jh1a&st=wwvcpowj&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/pFYz5wFMBlksWTxIZV2JDSDgE7S.jpg" group-title="▶ VOD ASEAN",Golden Slumber (2018)
+https://stream.playcdn.de/playlist/624d429efbf84986b1413f70aa3aafc8/5/480.m3u8
 https://www.dropbox.com/scl/fi/tolvc60jd8rq31eq0wrzb/Golden-Slumber.mp4?rlkey=5in0npfrlz1co7vfzdih9l2to&st=lpmztcvz&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/9AV1o7PKrzFkfYchXrpWUwdIoaq.jpg" group-title="▶ VOD ASEAN",The Duelist (2005)
@@ -97,75 +118,76 @@ https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Pee%20Nak%202%202020.
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5GCdOC7L7uJvB60cvi4ratmhS6A.jpg" group-title="▶ VOD ASEAN",Pee Nak 4 (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Pee%20Nak%204%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ay6piFe3z5VmO10FG9BJLPLlbOh.jpg" group-title="▶ VOD ASEAN",Pee Nak 5 (2026)
-https://www.dropbox.com/scl/fi/e0q42ukt57kenoaveictc/Pee.Nak.5.2026.mp4?rlkey=dlak74idahmtd0kdrv1694x1n&st=54ulowu2&dl=1
-https://fav.larhu.website/hls/vxzxgmoxqkqfycihmtppzvfejolfg6zikdhjcg6syvb54lwexwjy4p6h5beq/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pPdHuTs4RAdxs0yaXnlxl1AM3f1.jpg" group-title="▶ VOD ASEAN",King Kaew (2026)
-https://www.dropbox.com/scl/fi/0xj327yw0aqccyzlyqi61/King-Kaew-2026.mp4?rlkey=sstrje265nk2wyxt8vtlr02pz&st=spzkisil&dl=1
-https://fav.larhu.website/hls/vxzxgg66qkqfycihmtppzwvpacn65ytaievzvrp6ar6tk74paw5j6s4ttpua/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" group-title="▶ VOD ASEAN",The Furious (2026)
-https://www.dropbox.com/scl/fi/w1sgibaw3l018uhgvs29w/The-Furious-2026.mp4?rlkey=a6i203fxq268b1ivb35a5pd2m&st=a27l10jn&dl=1
-https://fav.larhu.website/hls/vxzxhiorqkqfycihmtppzan4bdlnmatqolsgjvznvhjkcga6eopz5h2ddlqq/index.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1N5lbL2x4Bz7YBjEWtu34VRBKCe.jpg" group-title="▶ VOD ASEAN",Double Happiness (2026)
 https://fav.larhu.website/hls/vxzxhpwaqkqfycihmto7zxpaiccjrgtgigfqjk4yyzfusjkt65hwq2rrcioq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/qgOKHLSdnY3KnuoVIcdksOfDbmv.jpg" group-title="▶ VOD ASEAN",Nightmare Haunted House (2025)
 https://fav.larhu.website/hls/vxzxgwoaqkqfycihmto7zwv6dqpfgglgrut3xg37ewtsvphecwcjhpuhy6oa/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2ReOSBDXqeTkDSOUiQAeksijLXe.jpg" group-title="▶ VOD ASEAN",The Elite of Devils (2024)
-https://fav.larhu.website/hls/vxzxgygaqkqfycihmto7zafodafilwdtotlzna52xyu7mxgjaupmfsa7l3ua/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gB8aGoVwPFH99orjybV1i0P5e7a.jpg" group-title="▶ VOD ASEAN",Human Resource (2026)
-https://fav.larhu.website/hls/vxzxgq6aqkqfycihmto7zvpojoajipkjayi3jt2yhvjex4hhyoxkyhezxboa/index.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aEMdHvaOK7UjCLpjyzBbMV9pezB.jpg" group-title="▶ VOD ASEAN",Perng Mang The Haunted Drum (2007)
 https://fav.larhu.website/hls/vxzxgzgcqkqfycihmto7zapcbqtv2cstrm55yqon4pndvcskvlytxmfguv5q/index.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2ReOSBDXqeTkDSOUiQAeksijLXe.jpg" group-title="▶ VOD ASEAN",The Elite of Devils (2024)
+https://fav.larhu.website/hls/vxzxgygaqkqfycihmto7zafodafilwdtotlzna52xyu7mxgjaupmfsa7l3ua/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ay6piFe3z5VmO10FG9BJLPLlbOh.jpg" group-title="▶ VOD ASEAN",Pee Nak 5 (2026)
+https://stream.playcdn.de/playlist/Mh0sYysYHGx3fEV8cQZ7Dwc6DQIaISh1dmcSLyIFNw/42/480.m3u8
+https://www.dropbox.com/scl/fi/e0q42ukt57kenoaveictc/Pee.Nak.5.2026.mp4?rlkey=dlak74idahmtd0kdrv1694x1n&st=54ulowu2&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pPdHuTs4RAdxs0yaXnlxl1AM3f1.jpg" group-title="▶ VOD ASEAN",King Kaew (2026)
+https://stream.playcdn.de/playlist/KREnKWgSFiQ1fEV8cQZ7Dwc6DQIaISh5ejNEKiEEMg/42/480.m3u8
+https://www.dropbox.com/scl/fi/0xj327yw0aqccyzlyqi61/King-Kaew-2026.mp4?rlkey=sstrje265nk2wyxt8vtlr02pz&st=spzkisil&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" group-title="▶ VOD ASEAN",The Furious (2026)
+https://stream.playcdn.de/playlist/JA07JyoMBGxwYUV5bnI6LRAZMBEdJkJ0JmgSenMB/43/480.m3u8
+https://www.dropbox.com/scl/fi/w1sgibaw3l018uhgvs29w/The-Furious-2026.mp4?rlkey=a6i203fxq268b1ivb35a5pd2m&st=a27l10jn&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gB8aGoVwPFH99orjybV1i0P5e7a.jpg" group-title="▶ VOD ASEAN",Human Resource (2026)
+https://stream.playcdn.de/playlist/Kg0kLytUBSQxPgI-IFV7anJKfGMSPDUFDg4vEyYGMjp2T3wv/41/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rdmXkKPjGw43u4wp3aod4aIPiH.jpg" group-title="▶ VOD ASEAN",Husbands in Action (2026)
-https://fav.larhu.website/hls/vxzxhkwfqkqfycihmto7zq7cb34asxmteelxauajmrbxubprs4c2tefn7nza/index.m3u8
+https://stream.playcdn.de/playlist/Kg06LCQXEzJvMBQ4Kl84dXBIe3hoLjIDBh0oFBwFZ2x2QHwocg/42/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7r9Lqza4onv8tAFUrPjWBMIeo2q.jpg" group-title="▶ VOD ASEAN",Seoul Raiders (2005)
 https://fav.larhu.website/hls/vxzxhlykqoqfycihmtnpzuf5brmd6vfsb4cafxcrdcbqhtwzu5lojg2do3xa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ocSsgFmdD06u6mTRumDjrm4qzjI.jpg" group-title="▶ VOD ASEAN",Our House (2025)
-https://fav.larhu.website/hls/vxzxhbzoqoqfycihmtn7zcnyj7q2lgjguxfhyxor62jc4rklvnq6yta7ss3a/index.m3u8
+https://stream.playcdn.de/playlist/LQ07Yy0WAjInfEV8cQV7Dwc6DQIaISgnJzRHKiYDbw/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nm1TVeSnup6kSNTFkhMIwI5Sz5B.jpg" group-title="▶ VOD ASEAN",Room No.7 (2017)
-https://fav.larhu.website/hls/vxzxhlieqoqfycihmtnpza5qbp7ukh6lb5e2sszho4cac4r3f4l5m4yujzma/index.m3u8
+https://stream.playcdn.de/playlist/0f2a905b1677c7a22cab5e097af1b1bb/11/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wT2TvLsB3n76TLZAOJv84nSsjHH.jpg" group-title="▶ VOD ASEAN",The Long Way Home (2015)
-https://fav.larhu.website/hls/vxzxh2imqoqfycihmtm7zqvyah3x52wsffg5pdgavcp7fkjxh5gy3njsrhdq/index.m3u8
+https://stream.playcdn.de/playlist/6d601acbc2cd5b76a5935efb8ff89ff0/20/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5B7Px0GfJwNMRD5PWJW3d0seo7O.jpg" group-title="▶ VOD ASEAN",The Cursed Village (2025)
-https://fav.larhu.website/hls/vxzxhknqqoqfycihmtlpzwv3icntc5adlmorlqa4pzkasjbbvi222yt5ss5q/index.m3u8
+https://stream.playcdn.de/playlist/589950dc64938c61470103cecd833c49/25/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg" group-title="▶ VOD ASEAN",Panda Plan (2024)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Panda%20Plan%202024-1-720.mp4
-https://fav.larhu.website/hls/vxzxghrzqoqfycihmtopzbfmjo3feaw7hfigv7a5ytnazhkchsujz7ard2sa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/asrLPsZMg75SxN1BooggGmpBwRO.jpg" group-title="▶ VOD ASEAN",Panda Plan 2 The Magical Tribe (2026)
+https://stream.playcdn.de/playlist/MhknKiRUBy0jP1p-bl03PysbKCJoDQUoIDRafnMCYHUVPQsKCSYvHnVlFilyU2Vu/40/480.m3u8
 https://www.dropbox.com/scl/fi/hwn7ixpquieicalwzp7oq/Panda.Plan.2.The.Magical.Tribe.2026.mp4?rlkey=06comp4ctf6qisloo104v3l8d&st=hycjrher&dl=1
-https://fav.larhu.website/hls/vxzxhuzyqoqfycihmtopzsf4curcwti5a35dzopbggd3v3zhksqrgl3bgq4q/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7hEhhmAF8Tr7g95fkbuxDpeR27b.jpg" group-title="▶ VOD ASEAN",A Writer’s Odyssey (2021)
+https://stream.playcdn.de/playlist/b243fef3c9e3b6293ee9c56eb8050630/10/480.m3u8
 https://www.dropbox.com/scl/fi/2828721smxqemgpprodif/a-writers-odyssey2021.mp4?rlkey=c5g8q5flsssjaif6cvtwpi44y&st=ugvxpqwa&dl=1
-https://fav.larhu.website/hls/vxzxh3bvqoqfycihmtopzx7odm5wbwalucftw6yd4sxvh7orooh6axbhourq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pROBAIA3i5q3uwm0iX1lO0L0SzW.jpg" group-title="▶ VOD ASEAN",A Writer's Odyssey 2 (2025)
+https://stream.playcdn.de/playlist/NQogOiALBGwtNQ4_MFUvdXBVe353TFoWBxMzABxoCTt6TnB_ch1H/37/480.m3u8
 https://www.dropbox.com/scl/fi/gd2ovwko42vg15a83rdnc/A-Writers-Odyssey-2-2025.mp4?rlkey=hbsrcvz7pl2xb6exxq0ppwapm&st=q0lomzlk&dl=1
-https://fav.larhu.website/hls/vxzxhwbvqoqfycihmtopzanccz3xl7ga6icfaclufepjmvtm5m7sj3lvow5q/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg" group-title="▶ VOD ASEAN",Blades of the Guardians (2026)
+https://stream.playcdn.de/playlist/IBQoKiAKWiY3MAUoKlE4K29KeXxzVCAEABU7ExtvZ2kmSnF-fB0/41/480.m3u8
 https://www.dropbox.com/scl/fi/0rigulsyvflpnnoxapgv5/Blades-of-the-Guardians-2026.mp4?rlkey=qagog992m5ibhaq0ds8zy9aij&st=6rqsgcas&dl=1
-https://fav.larhu.website/hls/vxzxhlwlqkqfycihmto7zcn4d7wkts25nt32iqypt62andsx52un3dwigqqa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x92ZefuXdXcqN3Dtluew76gOMb1.jpg" group-title="▶ VOD ASEAN",Sister (2026)
+https://stream.playcdn.de/playlist/MRE6OiALWnNyY0FhFHUUHA4nEREkHxRxdWFEeQ/42/480.m3u8
 https://www.dropbox.com/scl/fi/7nc9xx3f8tvg5ea9h0cf4/Sister-2026.mp4?rlkey=uqfokci68yg8ktgkwx9vu0qd8&st=01u9n3sw&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7URarQmiX9XnQ5c9dizHazBq0n2.jpg" group-title="▶ VOD ASEAN",Second Sister (2025)
+https://stream.playcdn.de/playlist/MR0qISsdWjIrIgMpMR1kaHBNZBkAOzMNHQkodCUCYDxxS3A/43/480.m3u8
 https://www.dropbox.com/scl/fi/wvr8ooiy9835orkq07dko/Second.Sister.2025.mp4?rlkey=jov3li0r24pek3bab25djtcaq&st=0mlkix4k&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2HSvt2PF2tSyKL4GRRniwE1URGI.jpg" group-title="▶ VOD ASEAN",You Will Die in 6 Hours (2024)
@@ -179,7 +201,6 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/No%20Other%20Choice%2
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6Wf8UnuYZiKVpZ975O5rnap89Nk.jpg" group-title="▶ VOD ASEAN",Only God Knows Everything (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Only%20God%20Knows%20Everything%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxguamqoqfycihmtnpzvn7jun36ruibmdo6w63jaabpo57rekprtkgztsq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tSwMkZs3c2xbHN6Khxsq4ELOO1w.jpg" group-title="▶ VOD ASEAN",Omukade (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Omukade%202026-1-720.mp4
@@ -224,149 +245,146 @@ https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Tidal%20w
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/3/Keys%20To%20The%20Heart%20720P%20Hdrip%20(2018)%20MHsub.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ngSoFK1Q0Y9cwD8nGMumROmZBj6.jpg" group-title="▶ VOD ASEAN",The Unjust (2010)
+https://stream.playcdn.de/playlist/1e4e154927d12eaf76d0ca006da68fad/23/480.m3u8
 https://www.dropbox.com/scl/fi/i0epkvxn95kcd8m8setps/The-Unjust.mp4?rlkey=d4w1p4ktliovko07ywt3hnls5&st=5vcyt4ox&dl=1
-https://fav.larhu.website/hls/vxzxhnqkqoqfycihmtnpza7cif3xrr224lqfuaqeqjksqqf6hbwivem64lcq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bApGPb1JPEDzif5FefkFC0JIAW9.jpg" group-title="▶ VOD ASEAN",Insane (2016)
 https://47229.ohflix.workers.dev/0:/x32/NewVersion/47/Insane%202016.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4wk90VHnjy9dWRZPkXMMyphftLG.jpg" group-title="▶ VOD ASEAN",My Daughter Is a Zombie (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/My%20Daughter%20is%20a%20Zombie%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxgmtvqoqfycihmtm7zan5drwkpkwxcvdijtpxyxo7s5s6kbi4c5tocyua/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/IPyXuP15FKQ6aECKeN9dl2t81l.jpg" group-title="▶ VOD ASEAN",Hopeless (2023)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Hopeless%202023-1-720.mp4
-https://fav.larhu.website/hls/vxzxhvlzqoqfycihmtm7zs5ecixeikkut26ztcsyqm7wm2zyqunmlxhmnm7a/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5OHb8GVFrLnQa6vfDZhfAtQ4Yju.jpg" group-title="▶ VOD ASEAN",Boy in the Pool (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Boy%20In%20the%20Pool%20(2025)-1-720.mp4
-https://fav.larhu.website/hls/vxzxhxkqqoqfycihmtmpzxfddv3ib7jcj2zbpmvpgt4gq3fjzzoe27bvln2q/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hNXiG7fYDwnnpBU2qPlwEI84SLS.jpg" group-title="▶ VOD ASEAN",The Silenced (2015)
+https://stream.playcdn.de/playlist/e7037a338a4ada075320151941780809/1/480.m3u8
 https://www.dropbox.com/scl/fi/rj96oefdcue6rzyuv55s0/The-Silenced.mp4?rlkey=6se6jas1rnv52ba5u2j51gem8&st=9yspw1qn&dl=1
-https://fav.larhu.website/hls/vxzxgrbaqoqfycihmtopzvnscdulpjidthzkw6wj2uqvmmy5xodkuceziiba/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bX8OXtPoxbJWcHszHmYQGhLtTmm.jpg" group-title="▶ VOD ASEAN",The Berlin File (2013)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/The%20Berlin%20File%20(2013)-1-720.mp4
-https://fav.larhu.website/hls/vxzxhnakqoqfycihmtnpzu5bb7t24cq7otdya4jak3otia2vt4p3vrol5guq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="▶ VOD ASEAN",BTS THE RETURN (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20RETURN%202026-1-720.mp4
-https://fav.larhu.website/hls/vxzxhzqmqoqfycihmtm7zufrjrqgkinhu25vgxuowxff5uhoymmxtsyenjha/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tztql23n2UCoM76KyCSKoZxVUL1.jpg" group-title="▶ VOD ASEAN",BTS THE COMEBACK LIVE ARIRANG (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/BTS%20THE%20COMEBACK%20LIVE%20ARIRANG%202026-1-720.mp4
-https://fav.larhu.website/hls/vxzxgodqqoqfycihmtm7zrngic72crcesg7vv6fhnopshj4osfaq6fzlttgq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iBD2Ja8TuKb7WZQnsa8SrMJiqLR.jpg" group-title="▶ VOD ASEAN",Re/Member (2022)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Re%20Member%202022-1-720.mp4
-https://fav.larhu.website/hls/vxzxgzt6qoqfycihmtm7zw5fjforvmx3hj75x67xgr2sb2yrxmvldrlo2hja/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg" group-title="▶ VOD ASEAN",The Ugly (2025)
+https://stream.playcdn.de/playlist/Nx8lN2hLR3N3fCAJAXQaBxonfS0gGhUicjI/41/480.m3u8
 https://www.dropbox.com/scl/fi/saw68ywwfixqppe5y2bd3/The-Ugly-2025.mp4?rlkey=y2i3qf1hsnvhr3gsa4qm5j6di&st=n18tdtgw&dl=1
-https://fav.larhu.website/hls/vxzxhiawqoqfycihmtn7zchpamfdl5izgnzypyxepxdykmrbynbotxpjr7va/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/du6XOg3cd6SlRBQ1fxZDKpgavW0.jpg" group-title="▶ VOD ASEAN",Panor 2 (2026)
+https://stream.playcdn.de/playlist/MhknITdURWxwYUV6bmcTGgY0FhYaTkN3JDRPLiE/41/480.m3u8
 https://www.dropbox.com/scl/fi/w57qz5szmmda8co5fkw7s/Panor.2.2026.mp4?rlkey=3fndnbtz53mm88111b57odsft&st=4coiwd14&dl=1
-https://fav.larhu.website/hls/vxzxh2zaqoqfycihmtopzx5db7vvoltwrop7hrzkwhwhkjltju67bp4yfh7q/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/o3tG02uudhv1YemqPUoC75q3lbr.jpg" group-title="▶ VOD ASEAN",Panor (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/Panor%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxhxraqoqfycihmtopzanedxv5hwvhaxvefrkilbsbm2g5qwlhxzst5xqa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg" group-title="▶ VOD ASEAN",My Dearest Assassin (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/My%20Dearest%20Assassin%202026-1-720.mp4
-https://fav.larhu.website/hls/vxzxhvjiqoqfycihmtn7za54apx3nvkse5atcyh67cbckj5yyaxx7zxlr2qq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3q8l68PtcEVm5KYjbljlcvzMsHH.jpg" group-title="▶ VOD ASEAN",The Last Shot (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Last%20Shot%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxhaavqoqfycihmtn7zw5vc4q7jsxcewc6syveofvjygyeb4n6kecmuwqq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1vXsCKl8FrFUzX6Ku3knUQrhVCT.jpg" group-title="▶ VOD ASEAN",The Cursed Mask (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Cursed%20Mask%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxhoq7qoqfycihmtnpzrnbabinqou3uvapg7cnpzp2mqsftqmbxwhpp5qa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg" group-title="▶ VOD ASEAN",The Red Line (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Red%20Line%202026-1-720.mp4
-https://fav.larhu.website/hls/vxzxg7yoqoqfycihmtm7zcnbdo76vsyhq7yexreerp5v7gmy4irvtjemv5eq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fqHIhkyf6Iu21WvIWAtWsoSgYJe.jpg" group-title="▶ VOD ASEAN",Boss (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Boss%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxh6jhqoqfycihmtn7zwxac355pawae3psgj3al75itobddtk7t7bcbega/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kbNpCIMYrjB9z5LNBrHasY081gv.jpg" group-title="▶ VOD ASEAN",The Favor (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Favor%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxhficqoqfycihmtnpzqnvdo7ci6orxdsjratdiv5cgqylnx2yrlvry3nq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="▶ VOD ASEAN",Humint (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Humint%202026-1-720.mp4
-https://fav.larhu.website/hls/vxzxh5akqoqfycihmtnpzb5piclqvun6fnwdkdld3ekd7ck74qxkalcju7cq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o0QqNbfO5YLcZs066RrRiph10zl.jpg" group-title="▶ VOD ASEAN",My Boo (2024)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/My%20Boo%201%202024-1-720.mp4
-https://fav.larhu.website/hls/vxzxgrtkqoqfycihmtmpzvnvdswqlubnnzt3cwzanx3dsk3uf4bvnrsj7nma/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3EVZqugrpUY2RTRdQgKXgE3vZ8b.jpg" group-title="▶ VOD ASEAN",My Boo 2 (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/My%20Boo%202%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxgtlkqoqfycihmtmpzxpgjlig3h7l6q2v64wtau3qt4fmho3fpaw32zlq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg" group-title="▶ VOD ASEAN",Pavane (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Pavane%202026-1-720.mp4
-https://fav.larhu.website/hls/vxzxg52iqoqfycihmtlpzu5ycsjlxj3fjzp6f5yogb6fdenm73dacgxz3wra/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3vvQDvrzMPN8sc2n3hLOqrlusDS.jpg" group-title="▶ VOD ASEAN",Salvageland (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Salvageland%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxgklkqoqfycihmtmpzx53ico4qvvuc7rtg3fuvezhs7nks5pw6qolrska/index.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ztpRiRGlPyaDd2vS5UjCpgcSoQX.jpg" group-title="▶ VOD ASEAN",The Bros (2017)
-https://www.dropbox.com/scl/fi/nsieyjudptgmprmv5s9fn/The-Bros-2017.mp4?rlkey=4odrsyh6xqljt721hwn29o4cu&st=vdibwwjt&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rZad8kOKwzOtOwSMQi6EiI4Oxbk.jpg" group-title="▶ VOD ASEAN",Familyhood (2016)
-https://www.dropbox.com/scl/fi/bshilks4vhkyl7gsiq3ey/Familyhood-2016.mp4?rlkey=edlauzp0lqg1fgguqllhmg3vs&st=kzlzzseh&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yAiANYk9aocISH5To89qwC8ZF8x.jpg" group-title="▶ VOD ASEAN",Kundo: Age of the Rampant (2014)
-https://www.dropbox.com/scl/fi/es9svge1ibs9dj5maqpwu/Kundo-Age-of-the-Rampant-2014.mp4?rlkey=a6x9ku682xddjoxv3145fofr9&st=svlacc2i&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gCZ0RHifBxZGedde7WPWSgjpyZt.jpg" group-title="▶ VOD ASEAN",Ashfall (2019)
-https://www.dropbox.com/scl/fi/78uoyehfgykps5mbhok34/Ashfall.2019.mp4?rlkey=1yrtyev1tlyt3ghyaxy2kusqu&st=jon66lld&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/on0F72EERa5nOSXaWKZhLfGrHQW.jpg" group-title="▶ VOD ASEAN",The Bad Guys: Reign of Chaos (2019)
-https://www.dropbox.com/scl/fi/tuhmfd07a8zii2en4bx0d/The-Bad-Guys-Reign-of-Chaos-2019.mp4?rlkey=mdlo1576uc808bnnmlelz77g2&st=nidtartp&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pox2kO29D3NAem5dnAuJEioMEBm.jpg" group-title="▶ VOD ASEAN",Ordinary People (2018)
-https://www.dropbox.com/scl/fi/udkey30zkxww988h2rh63/The.Villagers.2018.mp4?rlkey=p6xmn45xng4tb5nt0ym507j1s&st=ja3gufu0&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/w01ldRUe6RgurmIlKp8OVTmdaZ0.jpg" group-title="▶ VOD ASEAN",The Villagers (2018)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/29/The%20Villagers%202018.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4A2NhXngHY7x9CCKjbE5UsXinKD.jpg",The Soul-Mate (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ztpRiRGlPyaDd2vS5UjCpgcSoQX.jpg" group-title="▶ VOD ASEAN",The Bros (2017)
+https://stream.playcdn.de/playlist/d129ef92c551bcd89345889df0c44084/11/480.m3u8
+https://www.dropbox.com/scl/fi/nsieyjudptgmprmv5s9fn/The-Bros-2017.mp4?rlkey=4odrsyh6xqljt721hwn29o4cu&st=vdibwwjt&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rZad8kOKwzOtOwSMQi6EiI4Oxbk.jpg" group-title="▶ VOD ASEAN",Familyhood (2016)
+https://stream.playcdn.de/playlist/19a97b3635d4eb048ed712d374382b30/6/480.m3u8
+https://www.dropbox.com/scl/fi/bshilks4vhkyl7gsiq3ey/Familyhood-2016.mp4?rlkey=edlauzp0lqg1fgguqllhmg3vs&st=kzlzzseh&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yAiANYk9aocISH5To89qwC8ZF8x.jpg" group-title="▶ VOD ASEAN",Kundo Age of the Rampant (2014)
+https://stream.playcdn.de/playlist/43fbbea363b6551d13c26b02ae3f046c/6/480.m3u8
+https://www.dropbox.com/scl/fi/es9svge1ibs9dj5maqpwu/Kundo-Age-of-the-Rampant-2014.mp4?rlkey=a6x9ku682xddjoxv3145fofr9&st=svlacc2i&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gCZ0RHifBxZGedde7WPWSgjpyZt.jpg" group-title="▶ VOD ASEAN",Ashfall (2019)
+https://stream.playcdn.de/playlist/4e4bcdea2f847d01c6cb53cebc30159c/10/480.m3u8
+https://www.dropbox.com/scl/fi/78uoyehfgykps5mbhok34/Ashfall.2019.mp4?rlkey=1yrtyev1tlyt3ghyaxy2kusqu&st=jon66lld&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/on0F72EERa5nOSXaWKZhLfGrHQW.jpg" group-title="▶ VOD ASEAN",The Bad Guys Reign of Chaos (2019)
+https://stream.playcdn.de/playlist/7c8071fd7f2d3e4d63526f819a7db78c/4/480.m3u8
+https://www.dropbox.com/scl/fi/tuhmfd07a8zii2en4bx0d/The-Bad-Guys-Reign-of-Chaos-2019.mp4?rlkey=mdlo1576uc808bnnmlelz77g2&st=nidtartp&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pox2kO29D3NAem5dnAuJEioMEBm.jpg" group-title="▶ VOD ASEAN",Ordinary People (2018)
+https://stream.playcdn.de/playlist/367430dcaac374c95ad92b64027316dd/11/480.m3u8
+https://www.dropbox.com/scl/fi/udkey30zkxww988h2rh63/The.Villagers.2018.mp4?rlkey=p6xmn45xng4tb5nt0ym507j1s&st=ja3gufu0&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4A2NhXngHY7x9CCKjbE5UsXinKD.jpg" group-title="▶ VOD ASEAN",The Soul-Mate (2018)
+https://stream.playcdn.de/playlist/65bac3fcf5059bfc95a840a35157535f/13/480.m3u8
 https://www.dropbox.com/scl/fi/gmb2g88me7amr83e71vgj/The-Soul-Mate-2018.mp4?rlkey=63jjkeginpjxux9gnx9d8jp9d&st=t94yzcsv&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wzblS6RZaFhyTBNQRBr9Q6iYIV9.jpg",Champion (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wzblS6RZaFhyTBNQRBr9Q6iYIV9.jpg" group-title="▶ VOD ASEAN",Champion (2018)
+https://stream.playcdn.de/playlist/eb9604c8a59345c5c21a57bf3714ddb2/29/480.m3u8
 https://www.dropbox.com/scl/fi/lz2io40wmqib7nheaardi/Champion-2018.mp4?rlkey=alxz3kjy67tat2vo7ucy1uswn&st=vd609l7y&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eTdvO9AwJrxq02iYf4Lu5qA0fNc.jpg" group-title="▶ VOD ASEAN",Memoir of a Murderer (2017)
+https://stream.playcdn.de/playlist/10896701ca13642c2029ddf4d4d33194/5/480.m3u8
 https://www.dropbox.com/scl/fi/86lrhwi0oxzonkvziz7s2/Memoir-of-a-Murderer-2017.mp4?rlkey=61w187eo3qoc8piohf3vgo37j&st=91i4352e&dl=1
 
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l4pTmfKWYCyZIVgNV158JyWlhzW.jpg",Start-Up (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l4pTmfKWYCyZIVgNV158JyWlhzW.jpg" group-title="▶ VOD ASEAN",Start-Up (2019)
+https://stream.playcdn.de/playlist/e68d73ec005c481836d9e36e20a22c5c/11/480.m3u8
 https://www.dropbox.com/scl/fi/590uzbjvcyd0t9dcn03m1/Start-Up-2019.mp4?rlkey=1mhj1ml6vt3rmwuzl8chkmq2b&st=1mfgmut5&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ia3xuKuRfKGjwGT8JQzi3VVCnUB.jpg" group-title="▶ VOD ASEAN",Derailed (2016)
+https://stream.playcdn.de/playlist/911bf498ef3d28f3037cf5ad22fc5b7d/10/480.m3u8
 https://www.dropbox.com/scl/fi/3omsnfxy6bfs7z4beqyg0/Derailed-2016-Subs-Malay.mp4?rlkey=ei2z4v3pmv4ngpvqc1sfrg2fq&st=izw9wmuy&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3kmLrAWu0qgBRoNviC52DKEkHcl.jpg" group-title="▶ VOD ASEAN",Deep Trap (2015)
+https://stream.playcdn.de/playlist/fad9d7718862bf0212880d8bf8919d05/27/480.m3u8
 https://www.dropbox.com/scl/fi/cmc4ov68jhdufj2xwosgg/Deep-Trap-2015.mp4?rlkey=dufe0ctf9khr21gl9uh4xezw8&st=g4p76j58&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xJpsioMYBKBL5RS9G5VxCJNF1me.jpg" group-title="▶ VOD ASEAN",Murderer (2014)
+https://stream.playcdn.de/playlist/8d274f66aa1baf0541f7a72c6561fbc8/24/480.m3u8
 https://www.dropbox.com/scl/fi/xhhjs4jswciai39494mhg/Murderer-2014.mp4?rlkey=yef8ju0xjjws1pf3tfnc6s4m9&st=av7bnulj&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bG9ktvoMOESnTGxKIb6gkEfa6Eg.jpg" group-title="▶ VOD ASEAN",The Five (2013)
+https://stream.playcdn.de/playlist/e6d8c5ab80f5cad762aad731ee210cf5/21/480.m3u8
 https://www.dropbox.com/scl/fi/a53rf0xh5fooe99zobgfb/The.Five.2013.HDTV.mkv?rlkey=1yqb3b1pu53khov5y1ktthsih&st=uu4gas43&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mvTXhTddHIZbOU9pmrcPODI1kRx.jpg" group-title="▶ VOD ASEAN",The Flu (2013)
+https://stream.playcdn.de/playlist/dec8b882b23be22959f1222a3843ff73/2/480.m3u8
 https://www.dropbox.com/scl/fi/8s81p1dkh4huyrxzjpkya/The.Flu.2013.720p.mp4?rlkey=ljn4p20jlo5mbdwu0q9ej8kvr&st=finyrvf6&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg" group-title="▶ VOD ASEAN",The Gangster, the Cop, the Devil (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg" group-title="▶ VOD ASEAN",The Gangster the Cop the Devil (2019)
+https://stream.playcdn.de/playlist/65d8346501e787b4b042601f03098691/11/480.m3u8
 https://www.dropbox.com/scl/fi/s1brlgifxpe42pnvpyjpl/The.Gangster.the.Cop.the.Devil.2019.mp4?rlkey=c1bzlpjolwtka9tljeyq4bok4&st=bi3t9xf2&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/khJo0VTt1uDHOqgI4igXHNPj2LW.jpg" group-title="▶ VOD ASEAN",The Outlaws (2017)
@@ -382,9 +400,11 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/The%20R
 https://www.dropbox.com/scl/fi/mw1a5wpg4usg9khol9jrx/The.Roundup.No.Way.Out.2023.mp4?rlkey=mq2sa3qbvy2551k31oj6g8kxe&st=ax8r3st2&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/12IZ1MH0BEPw2fqA3iwaBbxlUPz.jpg" group-title="▶ VOD ASEAN",The Roundup Punishment (2024)
+https://stream.playcdn.de/playlist/696d3a3d598fcaf26700e3efe01f7867/30/480.m3u8
 https://www.dropbox.com/scl/fi/4311kklznygkvejhceh8w/The.Roundup.Punishment.2024.mp4?rlkey=l7r9hsdvpr164lhqv9ii0ulxy&st=zmq77940&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/csle64zkLObsdRoabreC6bBRxLI.jpg" group-title="▶ VOD ASEAN",Unstoppable (2018)
+https://stream.playcdn.de/playlist/2fd18eb31585b3466317e50dc7091b22/11/480.m3u8
 https://www.dropbox.com/scl/fi/887jj6eyizu1lh12as7xk/Unstoppable.2018.mp4?rlkey=1xohz0ormu150xfnmogec3s38&st=45qkvzq8&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="▶ VOD ASEAN",Badland Hunters (2024)
@@ -411,76 +431,66 @@ https://www.dropbox.com/scl/fi/l05iuxasi86yifrgl82cx/Tha-Rae-The-Exorcist-2025.m
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/48TDjSJpCdJ4SBOHZX3G5IjaV02.jpg" group-title="▶ VOD ASEAN",Death Whisperer (2023)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Death%20Whisperer%201%202023-1-720.mp4
-https://fav.larhu.website/hls/vxzxha5wqoqfycihmtlpzcpbbjm2ps2iqluqrsfuje2n33ucjxxiza4ct5la/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A0fHnpVX8vYQCmvETllWJQ30Mi6.jpg" group-title="▶ VOD ASEAN",Death Whisperer 2 (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Death%20Whisperer%202%202024-1-720.mp4
-https://fav.larhu.website/hls/vxzxh65wqoqfycihmtlpzwxbjqox3lkubpdbfuimucq24j4fephgdm45t5cq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iGKM5vTczW0U17Wi0Aek4Mkl1y.jpg" group-title="▶ VOD ASEAN",Death Whisperer 3 (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Death%20Whisperer%203%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxh75wqoqfycihmtlpzcnpdcum6672wgqsjt7gpf4xfwt7abhzhdcwi7ma/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wmjot8Wc2lKQaZFhUKbfUyy7rDG.jpg" group-title="▶ VOD ASEAN",The First Ride (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20First%20Ride%20(2025)-1-720.mp4
-https://fav.larhu.website/hls/vxzxgkfqqoqfycihmtlpzqpcjgq4w25gxxy7k2nieo2ca7w2flkqpg4fmjrq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/v1LHWnFM5knLKkKP6FxZ932bezQ.jpg" group-title="▶ VOD ASEAN",Pretty Crazy (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Pretty%20Crazy%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxglvrqoqfycihmtlpzv57igk2hm2xfhumlrcr7ig2mt3ctqjapa25twpq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="▶ VOD ASEAN",Anecdotes of Ape Mountain (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Anecdotes%20of%20Ape%20Mountain%20(2026)-1-720.mp4
-https://fav.larhu.website/hls/vxzxgffuqoqfycihmtlpzvfqclypc44f47tcpqehs24kfaobjdcuve6fb3ra/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dJzNnt260l1x63OOlZ3ha0RGcDK.jpg" group-title="▶ VOD ASEAN",Geomancer (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Xuanji%20Guardian%20The%20Divine%20Cauldron%20(2026)-1-720.mp4
-https://fav.larhu.website/hls/vxzxgefuqoqfycihmtlpzbnmcdftjnh5p4rkkvxbdfactdzhsszxpml2xxzq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg" group-title="▶ VOD ASEAN",Even If This Love Disappears Tonight (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Even%20If%20This%20Love%20Disappears%20Tonight%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxhsfwqoqfycihmtlpzqvfjotcysxhpbzoh7yvytkrak44zpmqzbsadrpa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oOfq5tr7OdVnpIMmuzCmet6XBEo.jpg" group-title="▶ VOD ASEAN",Road to Boston (2023)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Road%20to%20Boston%202023-1-720.mp4
-https://fav.larhu.website/hls/vxzxhq5wqoqfycihmtlpzb52dqopnhb7a76mq7lrk5punekqaz4fbqbu7tva/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A99xJpJmF0fRkkB9VHVhLPOkEfC.jpg" group-title="▶ VOD ASEAN",Abroad (2025)
 https://www.dropbox.com/scl/fi/6y6jhf57gjen8od0ajpdx/Abroad-2023.mp4?rlkey=wd6fg3ezsbeg8x2jaag6qcv8c&st=2ttnnrfg&dl=1
-https://fav.larhu.website/hls/vxzxgb56qoqfycihmtk7zsfobw63vyregt4rddnahz5mjk7pwhcujqnyjwra/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4cS5A8DLpLNp2TWFEXaacnLyyLc.jpg" group-title="▶ VOD ASEAN",Once Again (2024)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Once%20Again%20(2024)-1-720.mp4
-https://fav.larhu.website/hls/vxzxg5fbqoqfycihmtk7zcf5d5dxwdjvjbzwhs7maybqbtg7gfccclw2zoaq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gWKZ1iLhukvLoh8XY2N4tMvRQ2M.jpg" group-title="▶ VOD ASEAN",96 Minutes (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/96%20Minutes%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxg6vzqoqfycihmtlpzwpodr27xrnx2nmnfcsehq45mqxcvlmykuubbaxa/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4zJVQlCM2onUs3at8tTGEiHdS4D.jpg" group-title="▶ VOD ASEAN",Near Death (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Near%20Death%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxh4v2qoqfycihmtlpzan4jwel3kt5o6nds2ccocsbwbie6wrgkjbcigva/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vEBvHkGpcEkoALJOPe3PRt5gDhW.jpg" group-title="▶ VOD ASEAN",Streaming (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Streaming%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxhxn3qoqfycihmtk7zxvoj6vgzd4vz7up3qeoo2yxfyxztnn3xiep5kvq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cDffUvnm2TaLxQYWTy0PnohSGNP.jpg" group-title="▶ VOD ASEAN",Hwayi A Monster Boy (2013)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Hwayi%20A%20Monster%20Boy%20(2013)%20Bluray%20720p%20Malay%20Hardsub.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h70mPI4ulSp7LETW8LGOh77aEwh.jpg" group-title="▶ VOD ASEAN",The Unrighteous (2024)
+https://stream.playcdn.de/playlist/NxY7JyIRAyQtJARhcQBkbG8vDAwBNSgZHWRBeXcEZml0/38/480.m3u8
 https://www.dropbox.com/scl/fi/sscd8jkt4wic7hqxnw05e/The-Unrighteous-2024.mp4?rlkey=11xgizm5xs4lbp5lp6kfx5sa1&st=bkyht8xg&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lC6PjARz6pq2kDpbnfkefytKf7O.jpg" group-title="▶ VOD ASEAN",Your Letter (2025)
+https://stream.playcdn.de/playlist/Oxc8PGgVEjU2NAVhcQBkbW8vDAwBNSgZHTRCL3YIbjtx/37/480.m3u8
 https://www.dropbox.com/scl/fi/bq90l55h84e86gq45n83u/Your.Letter.2025.WEB-DL.720p.mp4?rlkey=27qbbh7iu7hhbomilyfisoy18&st=mb5592zc&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rgB23yhNSSGhH7cusyKneKsdEP2.jpg" group-title="▶ VOD ASEAN",Tastes of Horror (2023)
+https://stream.playcdn.de/playlist/JRcsYyEYGmwvMBlhIFg3Nm8MKD0xHARsKj4FPixCe2pySnpjEjw1BQ4OLxMnBTU-Ixx7dw/38/480.m3u8
 https://www.dropbox.com/scl/fi/ys5r7gq336b2wwytsb5yj/Tastes-of-Horror-2023-KOREAN-720p-WEB-MalaySub.mp4?rlkey=ufqccuxfizzodzizvyo1q03ex&st=tc1ur8j3&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://i.ebayimg.com/images/g/~xQAAOSwQENgfPhU/s-l1200.jpg" group-title="▶ VOD ASEAN",Insadong Scandal (2009)
 https://www.dropbox.com/scl/fi/3j7ovx0i4850spzy4zatb/Insadong-Scandal.mp4?rlkey=8g3qzvkxm8c3dbx8pbb8nypcm&st=v3tcekmg&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="▶ VOD ASEAN",Dark Nuns (2025)
+https://stream.playcdn.de/playlist/c2b9ed4b13da671a025b2ae7d3139abf/25/480.m3u8
 https://www.dropbox.com/scl/fi/mke2fxla1cz08r3ca9xqx/dark-nun.mp4?rlkey=glcct2jn9yauu4w7n9l7e49re&st=gfbsj1ku&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uWislqbyIFvR02uN4n20zjDnAm2.jpg" group-title="▶ VOD ASEAN",Dark Figure of Crime (2018)
@@ -593,13 +603,12 @@ https://47234.ohflix.workers.dev/0:/x35/NewVersion3/27/The%20Cursed%20Deads%20Ma
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/i1a1rk2qPrxIF5pYyBB2oSTa6OR.jpg" group-title="▶ VOD ASEAN",Cold Eyes (2013)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/41/Cold%20Eyes.mp4
-https://fav.larhu.website/hls/vxzxh6ozqkqfycihmtppzxf6btm27xxuyxpjhawztu2thyuk3yphentz3mlq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xq8jGwdVu0mvic93Qcg558MmQ9B.jpg" group-title="▶ VOD ASEAN",Confession (2014)
 https://fav.larhu.website/hls/vxzxh6gzqkqfycihmtppzsnhjdcrz3swepucltisr7fa6duexjhytnjbdcrq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6kLdCMcfYItUrPWCI24CmWfNQRg.jpg" group-title="▶ VOD ASEAN",The Woman in the White Car (2022)
-https://fav.larhu.website/hls/vxzxh56zqkqfycihmtppzu5ej5e2666sapxrepg3mvfzhmdne3xfrb7ovtbq/index.m3u8
+https://stream.playcdn.de/playlist/NRckLytUACkrJRJhIFEkdXBIe3xoLjIDBh0oFBxWY2t2GnAqdQ/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1tUOZQDgZaGqZtrB21MieiXARL2.jpg" group-title="▶ VOD ASEAN",The Great Flood (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/The%20Great%20Flood%202025-1-720.mp4
@@ -772,18 +781,23 @@ https://47229.ohflix.workers.dev/0:/x32/NewVersion/50/The%20Pirates%202014.mp4
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Decibel%202022-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1ynw6PKovvpiuFJnu5JucgujsOh.jpg" group-title="▶ VOD ASEAN",RV Resurrected Victims (2017)
+https://stream.playcdn.de/playlist/29ba49f2344abda5832ed013f6326758/3/480.m3u8
 https://www.dropbox.com/scl/fi/nx33fhzlymn9jl7ub5y46/Resurrected-Victims-2017.mp4?rlkey=huc086ar27pow2d8fvnpon9tt&st=rdrfrb35&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eFE1fhmj57bidgHQCKuGcprYjjg.jpg" group-title="▶ VOD ASEAN",My Little Bride (2004)
+https://stream.playcdn.de/playlist/LhE9OikcWiMwOBMpbgJmaHZVHgsHPTtsdmlHExtvJD03CCUhJB0/36/480.m3u8
 https://www.dropbox.com/scl/fi/n1iah8erhvdu49a270oor/My-Little-Bride-2004.mp4?rlkey=hftz5h5ejkyjk8pky73qjvmfv&st=chbpgpgz&dl=0
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dXloJ82I5KZ9oXVtjmBtCjOQnFx.jpg" group-title="▶ VOD ASEAN",Road Kill (2019)
+https://stream.playcdn.de/playlist/03275ef44bce4d73085cfa3ad2706fd4/18/480.m3u8
 https://www.dropbox.com/scl/fi/3g1w3q29yvfd60f5skho2/Road-Kill-2019.mp4?rlkey=rpwmfm9pcakj3yg7ryd86yn7x&st=iyov32br&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7slAQg542mB1BJZ34uQN8jiA7Dz.jpg" group-title="▶ VOD ASEAN",The Cursed Lesson (2020)
+https://stream.playcdn.de/playlist/0ffca22e920675ccb5be2b4893254a38/13/480.m3u8
 https://www.dropbox.com/scl/fi/o57qzptfcx1t5o5l7h3vz/The-Cursed-Lesson-2020.mp4?rlkey=8689lguelftj1be9o3v1b2kt7&st=o2m04ub0&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8YAqHsbeprubh3nBSL4cAosWeu7.jpg" group-title="▶ VOD ASEAN",Tomb of the River (2021)
+https://stream.playcdn.de/playlist/1d2425faaa2a9d4308e45107d7e8e087/3/480.m3u8
 https://www.dropbox.com/scl/fi/cqw9mbtelymeemm77pqx0/Tomb-of-the-River.mp4?rlkey=6rnotbig0cfoam5r5s1413beo&st=dcq9ji8e&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wlyaPaVqwbj2QNYZRxUV8AzguBD.jpg" group-title="▶ VOD ASEAN",The Prison (2017)
@@ -821,7 +835,6 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Canola%2020
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/v6wvLIF2X9juSXsBb5Ch6tU2LOK.jpg" group-title="▶ VOD ASEAN",New World (2013)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/24/New%20World%202013.mp4
-https://fav.larhu.website/hls/vxzxgv6aqkqfycihmto7zsfpdcbzbatcraldo6dvn7o5guytwz44nvunt5ya/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" group-title="▶ VOD ASEAN",Train to Busan (2016)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Train%20to%20Busan%20(2016)-1-720.mp4
@@ -892,16 +905,6 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Firefighters%20(2024)
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ydC8ubFXQfkPJDhkduMhbE9mTz7.jpg" group-title="▶ VOD ASEAN",The Childe (2023)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Childe%202023-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="▶ VOD ASEAN",Exhuma (2024)
-https://www.dropbox.com/scl/fi/eg4dlmdl05ln4b4xn2dp3/exhuma.mp4?rlkey=kj6km3p581284exr46ul63rvf&st=c0pjehv2&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lEVjtTbPIQkubu3XxebvAYv1Zwc.jpg" group-title="▶ VOD ASEAN",Worst Woman (2016)
-https://www.dropbox.com/scl/fi/40opvexpdy99c3400oj4y/Worth-the-Wait-2025.mp4?rlkey=d2sl0odkyya65nkaiwjjo8pxa&st=zjv018hi&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD ASEAN",Salmokji Whispering Water (2026)
-https://www.dropbox.com/scl/fi/z6v99l7cpdmi5yy6kxp0g/Salmokji-Whispering-Water-2026.mp4?rlkey=z2d3de30nrbx70v02x4lnzh2f&st=x1wghonm&dl=1
-https://fav.larhu.website/hls/vxzxh5bvqoqfycihmtopzwvfao7sfeb2mxljlg5h64c24cg4muzariflju4q/index.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xe2q5puzmFogp2i3fVla9Xcloc1.jpg" group-title="▶ VOD ASEAN",Enemies In-Law (2015)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Enemies%20In-Law%20(2015)-1-720.mp4
 
@@ -944,13 +947,43 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/I%20Am%20th
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/juAYTbpP05NR8co9GhDTPwEKqde.jpg" group-title="▶ VOD ASEAN",Iceman (2014)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Iceman%20The%20Time%20Traveller%20(2018)Bluray%20Malay%20hardsub.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/p1WPGGPVHHVJwTjmUaCsbTNATgn.jpg" group-title="▶ VOD ASEAN",Bogotá City of the Lost (2024)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Bogota%20City%20Of%20The%20Lost%202024-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zEyJ6JRL3xtUrJJ24vic2H76v3w.jpg" group-title="▶ VOD ASEAN",All About My Wife (2012)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/All%20About%20My%20Wife%202012.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b4d90lpmSTLoCP9tkBU7QAQOhh0.jpg" group-title="▶ VOD ASEAN",Sleep (2023)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Sleep%202023-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dFmXevN16w6WpclP0SEAlgWfOXW.jpg" group-title="▶ VOD ASEAN",Officer of the Year (2011)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Officer%20of%20the%20Year%20(2011)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rGRM38PpPbYP1nfK4wrW7D2GRiw.jpg" group-title="▶ VOD ASEAN",Project Silence (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Project%20Silence%202023ok-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="▶ VOD ASEAN",Exhuma (2024)
+https://stream.playcdn.de/playlist/3246eebf939c1efe719605fdfb1964ba/31/480.m3u8
+https://www.dropbox.com/scl/fi/eg4dlmdl05ln4b4xn2dp3/exhuma.mp4?rlkey=kj6km3p581284exr46ul63rvf&st=c0pjehv2&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lEVjtTbPIQkubu3XxebvAYv1Zwc.jpg" group-title="▶ VOD ASEAN",Worst Woman (2016)
+https://stream.playcdn.de/playlist/NRc7PTFUAC4vMBlhcQBnbm8vDAwBNSgZHWVHeXUFZ2h1/37/480.m3u8
+https://www.dropbox.com/scl/fi/40opvexpdy99c3400oj4y/Worth-the-Wait-2025.mp4?rlkey=d2sl0odkyya65nkaiwjjo8pxa&st=zjv018hi&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD ASEAN",Salmokji Whispering Water (2026)
+https://stream.playcdn.de/playlist/MRklIyoSHShvJh8lMEAzKisWLmMyGAMkMHxFfHEGew8HOg0CGiEoI3ZjFnp3BWQ/41/480.m3u8
+https://www.dropbox.com/scl/fi/z6v99l7cpdmi5yy6kxp0g/Salmokji-Whispering-Water-2026.mp4?rlkey=z2d3de30nrbx70v02x4lnzh2f&st=x1wghonm&dl=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg" group-title="▶ VOD ASEAN",The King’s Warden (2026)
+https://stream.playcdn.de/playlist/KREnKTZUACAwNRIibgJmanRVHgsHPTseGg5Ge3YFMG51GQ/41/480.m3u8
 https://www.dropbox.com/scl/fi/n5g8aaoe7i31lf6phiuen/The.King-s.Warden.2026.mp4?rlkey=7bjcpt4otyrfkpo0ca0xjf30w&st=ge4xa8d8&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cg679vCkXY9RH2iINLvdG68tzsQ.jpg" group-title="▶ VOD ASEAN",The World of Love (2025)
+https://stream.playcdn.de/playlist/NRc7IiFUGy40NFp-cwJjdRU9CwoJJi8ed2QUe3EBZT0/41/480.m3u8
 https://www.dropbox.com/scl/fi/ugaj8w0zfvg16xphh9dlx/world-love-2025.mp4?rlkey=wv9zj2czyxu0w4nm0u2pt3zh3&st=bl9xqnmc&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eGJJhkGnaWS9oG44Mj0c5tfT4jQ.jpg" group-title="▶ VOD ASEAN",Graveyard Horror (2025)
+https://stream.playcdn.de/playlist/JQooOCAAFjMmfB8jMUI5Km9KeXxwVCAEABU7ExtvZ20mSih2IUo/41/480.m3u8
 https://www.dropbox.com/scl/fi/oj2u9j2zomb6slbr6lt3o/graveyard-horror-2025.mp4?rlkey=2dxz0i0e6aeglrfx7vr3cs8bl&st=s4c0xmc9&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nRXbQ2wyv5AVQPLrMfHYJdgLoaR.jpg" group-title="▶ VOD ASEAN",Home Behind Bars (2025)
@@ -964,9 +997,6 @@ https://www.dropbox.com/scl/fi/o7r6l5tgdj39ufa5m6f51/once-we-us-2025.mp4?rlkey=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hJ1XNmBbNQtlcK61xZfpCAA0qCY.jpg" group-title="▶ VOD ASEAN",Lobby (2025)
 https://www.dropbox.com/scl/fi/n131lomt57m2rk14u8cxk/lobby-2025.mp4?rlkey=vflil4l7cxcwws4q1dees5cuz&st=d9yyasl1&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/p1WPGGPVHHVJwTjmUaCsbTNATgn.jpg" group-title="▶ VOD ASEAN",Bogotá City of the Lost (2024)
-https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Bogota%20City%20Of%20The%20Lost%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/30tuFX997Z1vqUQNXKJJkwqvoGI.jpg" group-title="▶ VOD ASEAN",Big Deal (2025)
 https://www.dropbox.com/scl/fi/ytv5vkyh7555c0g0f15t4/Big-Deal-2025.mp4?rlkey=2egsi0k4tnidl6nac4tl0lz68&st=ewfrvtoj&dl=1
@@ -1034,18 +1064,6 @@ https://www.dropbox.com/scl/fi/g0l6fgu0c6oh0ff16vugr/A-Company-Man.mp4?rlkey=puz
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aIkc5DwGPZIdImSudkUDQ799rq3.jpg" group-title="▶ VOD ASEAN",A Hard Day (2014)
 https://www.dropbox.com/scl/fi/pqk59ynqfamjo0eqbvwun/A-Hard-Day-2014.mp4?rlkey=tp57byq069mbfabce0etqk3no&st=ja99nfbo&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zEyJ6JRL3xtUrJJ24vic2H76v3w.jpg" group-title="▶ VOD ASEAN",All About My Wife (2012)
-https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/All%20About%20My%20Wife%202012.mp4
-
-#EXTINF:-1 type="movie" group-title="▶ VOD ASEAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b4d90lpmSTLoCP9tkBU7QAQOhh0.jpg",Sleep (2023)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Sleep%202023-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dFmXevN16w6WpclP0SEAlgWfOXW.jpg" group-title="▶ VOD ASEAN",Officer of the Year (2011)
-https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Officer%20of%20the%20Year%20(2011)-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rGRM38PpPbYP1nfK4wrW7D2GRiw.jpg" group-title="▶ VOD ASEAN",Project Silence (2024)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Project%20Silence%202023ok-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/k4QPUYRupu7Jv8ZWS9hiLw5OuhB.jpg" group-title="▶ VOD ASEAN",Jo Pil-ho The Dawning Rage (2019)
 https://www.dropbox.com/scl/fi/zl4ovsyyg9rtakxdkto9i/Jo-Pil-ho-The-Dawning-Rage.mp4?rlkey=v5f7cj5o868p07d1kngliebqo&st=88m91qb3&dl=1
 
@@ -1107,6 +1125,7 @@ https://www.dropbox.com/scl/fi/2uknn5tx6gd5n1ps5z6wa/A-Violent-Prosecutor.mp4?rl
 https://www.dropbox.com/scl/fi/wce6p035bz3k7xz3faoo6/The-Host.mp4?rlkey=xasebe1h6ud9kp7bxt2lick3e&st=xvlz9x4h&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hvuYtGoct3GUxzdvMg9IIQ0PRyJ.jpg" group-title="▶ VOD ASEAN",Wonderful Nightmare (2015)
+https://stream.playcdn.de/playlist/bde86ebf6cc23d28c9e002e21a8f2228/23/480.m3u8
 https://www.dropbox.com/scl/fi/3tx2gb1d12mb84e5kd9i6/Wonderful-Nightmare.mp4?rlkey=c5fzdexx196xndw4vlf7bfa3b&st=0x2jkdj3&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pBZ1N68Ral2rtNzeQAmGFhDadq0.jpg" group-title="▶ VOD ASEAN",The Plot (2024)
