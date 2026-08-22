@@ -5,6 +5,44 @@
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD FILM SERIES",
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aP8swke3gmowbkfZ6lmNidu0y9p.jpg" group-title="▶ VOD FILM SERIES",The Bourne Identity (2002)
+https://stream.playcdn.de/playlist/344fe26d3f6f1025e78ccd70c25e1c9f/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg" group-title="▶ VOD FILM SERIES",The Bourne Supremacy (2004)
+https://stream.playcdn.de/playlist/47941e534ab57514c9e141d48fe5cf4d/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg" group-title="▶ VOD FILM SERIES",The Bourne Ultimatum (2007)
+https://stream.playcdn.de/playlist/ddee841c4a990ee0e346f52878cbf7c0/2/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="▶ VOD FILM SERIES",The Bourne Legacy (2012)
+https://stream.playcdn.de/playlist/ce94d33a4a2c95177632862db716cfaa/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xA7N41glw17MBQtcWSm2eBlBRuG.jpg" group-title="▶ VOD FILM SERIES",Jason Bourne (2016)
+https://stream.playcdn.de/playlist/32e88ec00eedb34b06a94b39e1638378/2/480.m3u8
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg" group-title="▶ VOD FILM SERIES",Scream (1996)
+https://stream.playcdn.de/playlist/66f929f9606703c623d82dc132e0235d/1/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg" group-title="▶ VOD FILM SERIES",Scream 2 (1997)
+https://stream.playcdn.de/playlist/d178b684bfe4b4f15a0861651f5c87a4/21/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qpH8ToZVlFD1bakL04LkEKodyDI.jpg" group-title="▶ VOD FILM SERIES",Scream 3 (2000)
+https://stream.playcdn.de/playlist/ba70c46298ecdae70b720b22176d3ba9/4/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg" group-title="▶ VOD FILM SERIES",Scream 4 (2011)
+https://stream.playcdn.de/playlist/e0d8f8c1d8f7ad60aa818898692568a1/8/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg" group-title="▶ VOD FILM SERIES",Scream 5 (2022)
+https://stream.playcdn.de/playlist/MRs7KyQUWnNyY0VhIVwjKiMBFhYaT052IzNOeiY/33/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="▶ VOD FILM SERIES",Scream 6 (2023)
+https://stream.playcdn.de/playlist/72b0f7034686b0015bb4a858efc332b1/10/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="▶ VOD FILM SERIES",Scream 7 (2026)
+https://stream.playcdn.de/playlist/MRs7KyQUWnZvY0d-dR0BHQA8BREdJhZxJ2JBeCED/40/480.m3u8
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1egpmVXuXed58TH2UOnX1nATTrf.jpg" group-title="▶ VOD FILM SERIES",Insidious (2011)
 https://stream.playcdn.de/playlist/d4ca5f1e31d26713b30790af2f7c4aa8/4/480.m3u8
 
