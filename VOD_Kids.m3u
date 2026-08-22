@@ -607,6 +607,22 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Wall%20-%20
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="▶ VOD KIDS",Turning Red
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/27/Turning%20Red%202022.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="▶ VOD KIDS",Ratatouille (2007)
+https://stream.playcdn.de/playlist/5b9d3306413629218de36224864e2645/11/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ym7Kst6a4uodryxqbGOxmewF235.jpg" group-title="▶ VOD KIDS",Tangled (2010)
+https://stream.playcdn.de/playlist/70ec4ffc5b0e4c921150cc5e36e950f3/1/480.m3u8
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" group-title="▶ VOD KIDS",Cars (2006)
+https://stream.playcdn.de/playlist/889a5b4b91d898680e04485bcc0a9f48/25/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg" group-title="▶ VOD KIDS",Cars 2 (2011)
+https://stream.playcdn.de/playlist/bc42527ae5a136bc9c9bb7b3e086136f/5/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg" group-title="▶ VOD KIDS",Cars 3 (2017)
+https://stream.playcdn.de/playlist/d591d2d34483df3f6e750658bc9e15f5/5/480.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vRhnslP2gW0QDym7BsMeSuioUfK.jpg" group-title="▶ VOD KIDS",The Smurfs (2011)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/The%20Smurfs%202011.mp4
