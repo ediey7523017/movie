@@ -1884,6 +1884,9 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 ######################################################################▶ VOD INDIA#########################################################
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="▶ VOD INDIA",Jana Nayagan (2026)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbc0c4051b9d4f24aead172c7d66a580:77ecdc7511dd283c974c23a8848cad82
+https://ptv2026.com/zee.mpd?content_id=0-0-1z51027985
 https://www.dropbox.com/scl/fi/sb2dq44iohvj1iqvauxtz/Jana.Nayagan.2026.mp4?rlkey=nxg1zonct1y5y7ylhhbgvzncw&st=0a6yygme&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4swJKFhTwadPJLXeMzCd53vHpBh.jpg" group-title="▶ VOD INDIA",Aashaan (2026)
