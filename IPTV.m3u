@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://walpak1.github.io/epg/starhub.xml,https://www.open-epg.com/files/indonesia.xml" refresh="1440" vod_library="https://ediey7523017.github.io/mytv/HBO_MAX.m3u,https://ediey7523017.github.io/mytv/VOD_Others.m3u,https://ediey7523017.github.io/mytv/VOD_Astro.m3u,https://ediey7523017.github.io/mytv/VOD_Collection.m3u,https://ediey7523017.github.io/mytv/VOD_Asean.m3u,https://ediey7523017.github.io/mytv/VOD_English.m3u,https://ediey7523017.github.io/mytv/VOD_Indian.m3u,https://ediey7523017.github.io/mytv/VOD_Kids.m3u" billed-msg="JJ EDIEY 87 Editor"
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,,https://www.open-epg.com/files/indonesia.xml" refresh="1440" vod_library="https://ediey7523017.github.io/mytv/HBO_MAX.m3u,https://ediey7523017.github.io/mytv/VOD_Others.m3u,https://ediey7523017.github.io/mytv/VOD_Astro.m3u,https://ediey7523017.github.io/mytv/VOD_Collection.m3u,https://ediey7523017.github.io/mytv/VOD_Asean.m3u,https://ediey7523017.github.io/mytv/VOD_English.m3u,https://ediey7523017.github.io/mytv/VOD_Indian.m3u,https://ediey7523017.github.io/mytv/VOD_Kids.m3u" billed-msg="JJ EDIEY 87 Editor"
 
 
 ############################################################### RTM Klik ################################################################
@@ -1109,13 +1109,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="NHKWORLDJAPANHD.sg" group-title="Asian Favorites" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.id" group-title="Asian Favorites" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World-Japan
 https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d83df80b9af34e219404dea6bf7efd41:46dbfee377ea972b3e5914cbf6aa6122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="ArirangTVHD.sg" group-title="Asian Favorites" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=272",Arirang TV
+#EXTINF:-1 tvg-id="Arirang.id" group-title="Asian Favorites" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=272",Arirang TV
 https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
 
 
@@ -1206,7 +1206,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.id" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1230,7 +1230,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="Movies",Z Bioskop
+#EXTINF:-1 tvg-id="ZBioskop.id" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-m.png" group-title="Movies",Z Bioskop
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1405,10 +1405,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
 
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="Global Trekker (HD)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",Global Trekker
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 
@@ -1466,16 +1466,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bbbbb_logo_ZM_web_crop.webp" group-title="Kids",Zoo Moo
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=272" group-title="Kids",Cartoonito
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="ZooMoo.id" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" group-title="Kids",Zoo Moo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 
 ################################################################# Variety ################################################################
@@ -1529,10 +1529,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="Variety",Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 
 ################################################################# Sports #################################################################
