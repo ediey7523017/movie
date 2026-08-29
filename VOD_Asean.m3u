@@ -1460,6 +1460,9 @@ https://stream.playcdn.de/playlist/b1cfdc1481a93e745acc3a000c7c0700/1/0.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/brdsfjePxwKwajeonKCgIyqsDoU.jpg" group-title="▶ VOD ASEAN",Sunshine Women's Choir (2025)
 https://stream.playcdn.de/playlist/93068f57f10c2bb595dbe95a4ce04cce/1/480.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2ayOQIh18qhJRoajoAxxGuZXry2.jpg" group-title="▶ VOD ASEAN",Shake Rattle & Roll Evil Origins (2026)
+https://stream.playcdn.de/playlist/33e0158cf53d14b4b149148e13457264/2/480.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4asJAxshXzQriox6tnIoEnWN1nu.jpg" group-title="▶ VOD ASEAN",Resurrection (2025)
 https://stream.playcdn.de/playlist/ed515ff094eeddc90f4f04e59c44d177/1/480.m3u8
 
@@ -2364,37 +2367,54 @@ https://www.dropbox.com/scl/fi/9ayig39kfulx0kpw8ehiv/Ice-Cold-Murder-Coffee-and-
 
 #################################################################### ▶ VOD INDONESIA ###################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDONESIA",
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lfRmX6BMnDzUvd8AzDq9jrw8RiJ.jpg" group-title="▶ VOD INDONESIA",Arwah Sinden (2025)
+https://store-eu-par-4.gofile.io/download/web/901131ad-c276-4e7c-b1de-1cd85cdaa92f/NGEFILM.STORE.Arwah.Sinden.2025.WEB-DL.720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/x0DU8aLA6PBtQe6QWD0dDUN3DKV.jpg" group-title="▶ VOD INDONESIA",Sengkolo Malam Satu Suro (2024)
+https://file-ap-sgp-3.gofile.io/download/web/db70757a-5200-44b4-86ba-803a22ef0239/NGEFILM.LIVE.Sengkolo.Malam.Satu.Suro.2024.WEB-DL.720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mgeSMHEwymzN8DGLXTSbQbhTfAB.jpg" group-title="▶ VOD INDONESIA",Perjanjian Setan (2024)
+https://file-eu-par-2.gofile.io/download/web/80194669-d2be-4828-80b5-579188b5b3da/NGEFILM.LIVE.Perjanjian.Setan.2024.WEB-DL.720p.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aNRfWMwoCbOEr78q0rR6YJw949m.jpg" group-title="▶ VOD INDONESIA",Suzzanna Santet Dosa di Atas Dosa (2026)
+https://store-eu-par-1.gofile.io/download/web/f2847e7d-8818-4041-b84d-0734e05558d3/NGEFILM.LIVE.Suzzanna.Santet.Dosa.di.Atas.Dosa.2026.WEB-DL.720p.mp4
 https://www.dropbox.com/scl/fi/3ahmixlf3q0a7pj95zrv4/Suzzanna.Santet.Dosa.di.Atas.Dosa.2026.mp4?rlkey=xtsifdo9jmo1x3iu7691kp8a3&st=x75o8235&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gut2EAv6h868bpAeqVyOSD8B4Qi.jpg" group-title="▶ VOD INDONESIA",Sebelum Dijemput Nenek (2026)
 https://hls.khflix.top/Sebelum%20Dijemput%20Nenek%20(2026)/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/84Az3SHKRJDg971KQ0j9nZWYTcf.jpg" group-title="▶ VOD INDONESIA",Alas Roban (2026)
-https://hls.khflix.top/Alas%20Roban%20(2026)/index.m3u8
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Alas%20Roban%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vmggNXdqYLql6rUYR96r0YjnL6U.jpg" group-title="▶ VOD INDONESIA",Kafir Gerbang Sukma (2026)
+https://store-na-phx-1.gofile.io/download/web/f0fb6507-fdd4-450f-a689-77bbd3f6b96b/NGEFILM.LIVE.Kafir.Gerbang.Sukma.2026.WEB-DL.1080p.mp4
 https://www.dropbox.com/scl/fi/8vf9nw1kpxgs5fxgdro9j/Kafir.Gerbang.Sukma.2026.mp4?rlkey=b0au13664qb4rs8kphu82fln8&st=rbkoiqz2&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yZmd1zdRGX5huc0KsTTqqzuHiI3.jpg" group-title="▶ VOD INDONESIA",Dosa Musyrik (2024)
+https://cold-eu-par-1.gofile.io/download/web/f996dce8-6410-4c56-bf79-75dd86d58338/NGEFILM.LIVE.Dosa.Musyrik.2024.WEB-DL.1080p.mp4
 https://www.dropbox.com/scl/fi/kr54alp8zgti8ymgdyvtn/Dosa.Musyrik.2024.mp4?rlkey=l7sb3qcn05ekuifw4c1rbmzp5&st=b3fcz3x7&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/weSbXv273UHJW6ChOHBRtcJMRwK.jpg" group-title="▶ VOD INDONESIA",Pulau Hantu (2024)
 https://www.dropbox.com/scl/fi/8m1m2oauewrzjvnhttf11/Pulau.Hantu.2024.mp4?rlkey=drp7kcrnp07mde0g4zj7kguxo&st=2zv4hl89&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uNAY68Dmh6pzJX6Xauk4rUX343j.jpg" group-title="▶ VOD INDONESIA",Pasar Setan (2024)
+https://store3.gofile.io/download/web/90bd807d-f169-4e9b-95af-ce49f7fd336f/NGEFILM.LIVE.Pasar.Setan.2024.WEB-DL.1080p.mp4
 https://www.dropbox.com/scl/fi/66gvjqhib9tj806nolf4a/Pasar.Setan.2024.mp4?rlkey=keuqn0dl18an3vqv34ey8vqos&st=f57wzrgb&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eD2pLCLMvbw06ITaHipGAYU0MiI.jpg" group-title="▶ VOD INDONESIA",Timur (2025)
-https://fav.larhu.website/hls/vxzxgircqoqfycihmtopzspcdmn3ezpzefga4hsthozbm5tdeythkrmqz2ca/index.m3u8
+https://cold-na-phx-4.gofile.io/download/web/88f3f208-3670-4159-8447-91a409a6f9e7/NGEFILM.INK.Timur.2025.WEB-DL.480p.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/avFrX5pi0iojFe5G4reUReyzA2m.jpg" group-title="▶ VOD INDONESIA",Musuh Dalam Selimut (2026)
-https://fav.larhu.website/hls/vxzxgibcqoqfycihmtopzafdcm2n6vldqvhpbocnnnjyadvyolvokicrdg7a/index.m3u8
+https://pixeldrain.com/api/file/Wp484jYg?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mNoIh1yNhW67X8Ij3jgqZtKtRuP.jpg" group-title="▶ VOD INDONESIA",Dusun Mayit (2025)
+https://pixeldrain.com/api/file/ja1ifmVK?download
 https://www.dropbox.com/scl/fi/l8uyv7t7qs56w0f2w5ai9/Dusun-Mayit-2025.mp4?rlkey=wadcypdom236co78gl0gerk50&st=nvxy6vqu&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/smTzeVew31Fg6rOqJ4OjZTcU0BW.jpg" group-title="▶ VOD INDONESIA",Janur Ireng (2025)
+https://pixeldrain.com/api/file/2okFQ5FG?download
 https://www.dropbox.com/scl/fi/688fw60oq9zl1qfxzhizw/Janur-Ireng-2025.mp4?rlkey=4bewb8mnndaxb7j0bqwtb0nvk&st=yfnywe5i&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6lLfy2AlvFkmixgLEyAxPAyjVfn.jpg" group-title="▶ VOD INDONESIA",Sijjin (2023)
@@ -2449,8 +2469,11 @@ https://www.dropbox.com/scl/fi/w5pipj72dwlq3bpnantfu/Tainted-Soul.mp4?rlkey=2wb9
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg" group-title="▶ VOD INDONESIA",Buya Hamka (2023)
 https://www.dropbox.com/scl/fi/ssx27vkf8qblww16ju25p/Buya-Hamka-Vol.-1.mp4?rlkey=5ovfgd9h6wzpckelizg8x629k&st=7yb32vvd&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zkn2PGI29OyhLESLpmLt8MnY2W2.jpg" group-title="▶ VOD INDONESIA",200 Pounds Beauty (2023)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Asean/200_Pounds_Beauty_2023_INDOENSIAN_1080p_WEB_DL_EngSub@bymovieclub.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/QBxira0clJwdCRHu2O2rELU9J.jpg" group-title="▶ VOD INDONESIA",Agak Laen (2024)
+https://pixeldrain.com/api/file/st9vqZYF?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nMJqvtrgX6dqZNcNfAJvS5o7wd1.jpg" group-title="▶ VOD INDONESIA",Agak Laen Menyala Pantiku! (2025)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Agak%20Laen%20Menyala%20Pantiku%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ryaPV0ldnCaRkf1cQG9Qk1dkZ40.jpg" group-title="▶ VOD INDONESIA",Qorin (2022)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Tevar%20(2015)-1-720.mp4
@@ -2511,7 +2534,13 @@ https://www.dropbox.com/scl/fi/w7zmrzfm2jldcdebrmmsm/La-Tahzan-2025.mp4?rlkey=hv
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="▶ VOD INDONESIA",Pamali Tumbal (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Pamali%20Tumbal%20(2025)-1-720.mp4
-https://www.dropbox.com/scl/fi/827ez49ym9774kkr2op1w/Pamali-Tumbal-2025.mp4?rlkey=9q2vekis3a52d8orpsd1mt5ul&st=v41qlgj0&dl=1
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/ilp61.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/9ntCelhVPzeGON49IvlECWvA87I.jpg" group-title="▶ VOD INDONESIA",Pamali Dusun Pocong (2023)
+https://pixeldrain.com/api/file/8h8NUNVW?download
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lQV6CY7PJ2rCslIIWHEBOypY8tk.jpg" group-title="▶ VOD INDONESIA",Pamali (2022)
+https://pixeldrain.com/api/file/ULfvUwPm?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3v24kc1jJwiYtC1CqOYebRbEX7h.jpg" group-title="▶ VOD INDONESIA",Arwah (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Arwah%202025-1-720.mp4
@@ -2567,6 +2596,9 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Hagesu%20-%20Hantu%20Gend
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%20Part%202%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%202023-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis (2023)
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tgk5PvpufxSKNnRDb0U1l5OXd1X.jpg" group-title="▶ VOD INDONESIA",Saranjana Kota Ghaib (2023)
@@ -2682,101 +2714,95 @@ https://www.dropbox.com/scl/fi/ar13n4r2jdj757ye0vam7/Mantra-Surugana.mp4?rlkey=2
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vEDH2MHtStOSjXd4SA96zMH6KMj.jpg" group-title="▶ VOD INDONESIA",Kajiman Iblis Terkejam Penagih Janji (2023)
 https://www.dropbox.com/scl/fi/ovknqdh6ouoxkm4j9gont/Kajiman-Iblis-Terkejam-Penagih-Janji.mp4?rlkey=tkn4xzuvd865osnthi2m2c391&st=vtijbf04&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63InZxeGgfNQCoWkImR14fB99AY.jpg" group-title="▶ VOD INDONESIA",KKN di Desa Penari (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/KKN%20Di%20Desa%20Penari%202022.mp4
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/09/10/2913219691.jpg" type="movie" group-title="HOROR INDO",AIR TERJUN PENGANTIN
-https://filmovie.github.io/oq90jy/i85FtikK9rZ/6yfll.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wyRVXRygEOPpjTIcDz3z7ZXLZ45.jpg" group-title="▶ VOD INDONESIA",KKN di Desa Penari Luwih Dowo, Luwih Medeni (2022)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru37/KKN%20Di%20Desa%20Penari%20-%20Extended%202022.mp4
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/08/11/IMG_20240811_201204-3867138655.jpg",BANDARAWUHI DI DESA PENARI
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2OH3EY2dkpHJVJkObLKTuvZRYKP.jpg" group-title="▶ VOD INDONESIA",Badarawuhi di Desa Penari (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Dancing%20Village%20The%20Curse%20Begins%202024ok-1-720.mp4
+
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63InZxeGgfNQCoWkImR14fB99AY.jpg" group-title="▶ VOD INDONESIA",KKN di Desa Penari (2022)
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/i9rZt4.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2OH3EY2dkpHJVJkObLKTuvZRYKP.jpg" group-title="▶ VOD INDONESIA",Badarawuhi di Desa Penari (2024)
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=www.dropbox.com
 https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x2GHfi-1gs4/maxresdefault.jpg" type="movie" group-title="HOROR INDO",DOSEN GHAIB - SUDAH MALAM ATAU SUDAH TAHU (FHD) 
-https://drive.usercontent.google.com/download?id=1YslB3-jUVIsLr9EDSjaukX6dpwKZxX9R&export=download&authuser=0&confirm=t&uuid=357c1cc9-c82d-4901-b5a6-18db10f9902c&at=APvzH3rIBYS4a9CILesu8yIh3WCf%3A1735754447312
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zF1D2iiUtsvsjsA3IarOXryxn32.jpg" group-title="▶ VOD INDONESIA",Dosen Ghaib Sudah Malam atau Sudah Tahu (2024)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Dosen%20Ghaib%20Sudah%20Malam%20Atau%20Sudah%20Tahu%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://assets.pikiran-rakyat.com/crop/3x0:1279x645/720x0/webp/photo/2022/09/18/2587098442.jpg",HIDAYAH
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Hidayah%202023.mp4?
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rGFFl5OXkhpHuS7zOJmZqxfgqgF.jpg" group-title="▶ VOD INDONESIA",Air Terjun Pengantin (2009)
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/6yfll.m3u8
 
-#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/720x0/2023/02/02/jailangkung-sandekala_ratio-16x9.jpg" type="movie" group-title="HOROR INDO",JAELANGKUNG SANDEKALA
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vbLe893uk8h3SmcqBd7LZHdzPAv.jpg" group-title="▶ VOD INDONESIA",Air Terjun Pengantin Phuket (2013)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Air%20Terjun%20Pengantin%20Phuket%20(2013)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rrAG3nzfG4pNkmTZTSxBAespWyD.jpg" group-title="▶ VOD INDONESIA",Jailangkung Sandekala (2022)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Jailangkung%20Sandekala%202022.mp4
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/poster-kajiman-iblis-terkejam-penagih-j-269df3.jpg" type="movie" group-title="HOROR INDO",KAJIMAN - IBLIS TERKEJAM PENAGIH JANJI
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vEDH2MHtStOSjXd4SA96zMH6KMj.jpg" group-title="▶ VOD INDONESIA",Kajiman Iblis Terkejam Penagih Janji (2023)
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/78qs1t.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/946/2024/08/23/InShot_20240823_172355716-3319974653.jpg" type="movie" group-title="HOROR INDO",KANG MAK (PEE MAK)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/263aNd2xQxVZUpvA5iF4nUMjkrC.jpg" group-title="▶ VOD INDONESIA",Kang Mak from Pee Mak (2024)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Kang%20Mak%20from%20Pee%20Mak%202024-1-720.mp4
 https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01j2frpnsd591dr1m8fse0g4sx.jpg" type="movie" group-title="HOROR INDO",KANG MAK
-https://drive.usercontent.google.com/download?id=1HLI1OZ6sJnN_6aVuJeVbq1CX6MN3os75&export=download&authuser=0&confirm=t&uuid=c2e93085-57d1-4be1-bdc3-00807a43582e&at=APvzH3rgln-RebiQU_tpIjD7DDzO%3A1735695013023
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hfH54RSX7rGAlo6aS1HLyzLdM0B.jpg" group-title="▶ VOD INDONESIA",Kang Solah from Kang Mak x Nenek Gayung (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Kang%20Solah%20From%20Kang%20Mak%20X%20Nenek%20Gayung%202025-1-720.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iGtP3qJGsGI/hq720.jpg" type="movie" group-title="HOROR INDO",KHANSAB
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Khanzab.2023.mp4?
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_oAGruYMsCA/maxresdefault.jpg" type="movie" group-title="HOROR INDO",KHANZAB
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="▶ VOD INDONESIA",Khanzab (2023)
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/86Z2tt.m3u8
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8zBWKhKF-859A0efX50FNWF_VWykM5nfUA&s",Kisah Tanah Jawa: Pocong Gundul
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/pzREo2uh5jyxKoUR8TizxKZ7n3b.jpg" group-title="▶ VOD INDONESIA",Kisah Tanah Jawa Pocong Gundul (2023)
 https://pixeldrain.com/api/file/xTZuUgAW?download
 
-#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2022/05/12/IMG_20220512_135230_013.jpg" type="movie" group-title="HOROR INDO",KKN - DI DESA PENARI
-https://filmovie.github.io/oq90jy/i85FtikK9rZ/i9rZt4.m3u8
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/kuyang-the-movie-hadirkan-teror-mengeri-dd901d.jpg",Kuyang
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/doh9h0XeurFRrwVqYltrtSsC8nJ.jpg" group-title="▶ VOD INDONESIA",Kuyang the Movie (2021)
 https://pixeldrain.com/api/file/BPrv72bw?download
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://i.ytimg.com/vi/Au26Od1RpTs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbBG48dMWGCtTExgh0GP8fWnFWsw",Malam Para Jahanam
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/doh9h0XeurFRrwVqYltrtSsC8nJ.jpg" group-title="▶ VOD INDONESIA",Kuyang Sekutu Iblis Yang Selalu Mengintai (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Kuyang%20Sekutu%20Iblis%20Yang%20Selalu%20Mengintai%20(2024)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/9Rbh5RuGObpUr3k5a3GnmkYk4ab.jpg" group-title="▶ VOD INDONESIA",Malam Para Jahanam (2023)
 https://pixeldrain.com/api/file/a9Y8CEgx?download
 
-#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2025/07/26/film-pamali-tumbal_ratio-16x9.jpg" type="movie" group-title="HOROR INDO",PAMALI
-https://filmovie.github.io/oq90jy/i85FtikK9rZ/ilp61.m3u8
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2023/01/20/para-betina-pengikut-iblis_169.jpeg?w=1200",PARA BETINA PENGIKUT IBLIS (FHD)
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://cdns.klimg.com/resized/800x400/p/headline/sinopsis-dan-konsep-cerita-film-perjanj-5fa94a.jpg",PERJANJIAN GHAIB
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Perjanjian.Gaib.2023.mkv
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://i.ytimg.com/vi/E0WfQ6acdS0/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBnz_AfEaCrWOwgnG6NT8pMcVJRRA",Pemukiman Setan
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hrD30HAzuniJwFWbUtX4YrLZqs9.jpg" group-title="▶ VOD INDONESIA",Pemukiman Setan (2024)
 https://pixeldrain.com/api/file/gjPCoSJZ?download
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3uzone/cover/main/Qodrat_2022.jpg" type="movie" group-title="HOROR INDO",Qodrat (2022)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gCIAnXdwtYKf0oXPIA7fSeaCW55.jpg" group-title="▶ VOD INDONESIA",Qodrat (2022)
 https://archive.org/download/qodrat-2022/Qodrat%20%282022%29.m3u8
 
-#EXTINF:-1 tvg-logo="https://imusic.id/wp-content/uploads/2022/10/311316272_135221492596429_2385138342504836538_n.jpg" type="movie" group-title="HOROR INDO",QODRAT (HD)
-https://drive.usercontent.google.com/download?id=1V6SLExwnj7olzDuYh-1HcvsUdMrmA13y&export=download&authuser=0&confirm=t&uuid=a3773f99-0657-4898-ba57-06d17331d940&at=APcmpow_ZTsr7leOFtFfwF87vDO3:1744613025075
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kSjkuebiNcHyJpIdLka3zD4Z7cM.jpg",SEWU DINO
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Sewu.Dino.2023.1080p.AMZN.WEB-DL.DDP5.1.H.265-KQRM.mkv
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gQGNKqk4vNG7xY6qItN5ASXm9i7.jpg",Saranjana: Kota Ghaib (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gQGNKqk4vNG7xY6qItN5ASXm9i7.jpg" group-title="▶ VOD INDONESIA",Saranjana Kota Ghaib (2023)
 https://pixeldrain.com/api/file/vUGDTTXc?download
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/u5uK4LpG4fpfeuQkt3klElAHT4z.jpg",Sehidup Semati (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/u5uK4LpG4fpfeuQkt3klElAHT4z.jpg" group-title="▶ VOD INDONESIA",Sehidup Semati (2024)
 https://pixeldrain.com/api/file/zSNxqv5q?download
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gt0zaEuYDgr5AbgHkLKmTfliBdd.jpg",Siksa Neraka (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gt0zaEuYDgr5AbgHkLKmTfliBdd.jpg" group-title="▶ VOD INDONESIA",Siksa Neraka (2023)
 https://pixeldrain.com/api/file/Ya2YKE7h?download
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yEv7TJj1wpPS9uLwyVstTmobkim.jpg",Jagat Alam Gaib: Sinden Gaib (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/yEv7TJj1wpPS9uLwyVstTmobkim.jpg" group-title="▶ VOD INDONESIA",Jagat Alam Gaib Sinden Gaib (2024)
 https://pixeldrain.com/api/file/ci2qdnsA?download
 
-#EXTINF:-1 tvg-logo="https://www.tangerangnews.com/assets/uploaded/photo/2023/02/03/a566382f7d4ad10d8e4ead1728ef2a32.jpg" type="movie" group-title="HOROR INDO",SUZANA MALAM JUMAT KLIWON
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/Ah2F2pzS0St34QDtRyK7AIIMUwP.jpg" group-title="▶ VOD INDONESIA",Suzzanna Malam Jumat Kliwon (2023)
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/k4idF.m3u8
 
-#EXTINF:-1 tvg-logo="https://hypeabis.id/assets/content/20230201163929000000tb.jpg" type="movie" group-title="HOROR INDO",TASBIH KOSONG
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/u9ws7HyqsSdpm9cuM4HOqtnLTkz.jpg" group-title="▶ VOD INDONESIA",Tasbih Kosong (2023)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/KcZm3.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/article-tasbih-kosong-2023-1_890_490.webp" type="movie" group-title="HOROR INDO",TASBIH KOSONG
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4?
-
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hWTJoZgpeh6KGN6IOPmmvoQMc6j.jpg",Thaghut (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hWTJoZgpeh6KGN6IOPmmvoQMc6j.jpg" group-title="▶ VOD INDONESIA",Thaghut (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Thaghut%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO"tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fJKDAvWirt0E1GrPo3SkPhulQeb.jpg",Trinil kembalikan tubuhku
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fJKDAvWirt0E1GrPo3SkPhulQeb.jpg" group-title="▶ VOD INDONESIA",Trinil kembalikan tubuhku
 https://pixeldrain.com/api/file/gu6tTkv4?download
 
-#EXTINF:-1 type="movie" group-title="HOROR INDO" tvg-logo="https://raw.githubusercontent.com/m3uzone/cover/main/WaktuMagribII2025.jpg",Waktu Maghrib 2 (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/m3uzone/cover/main/WaktuMagribII2025.jpg" group-title="▶ VOD INDONESIA",Waktu Maghrib 2 (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://archive.org/download/waktu-magrib-2-2025/Waktu%20Magrib%202%20%282025%29.m3u8
 
@@ -2901,12 +2927,6 @@ https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Pengabdi%20Setan%202%
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="▶ VOD MALAY",Memoir Seorang Guru (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Memoir%20Seorang%20Guru%202024-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD MALAY",Para Betina Pengikut Iblis : Part 2 (2024)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%20Part%202%202024-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="▶ VOD MALAY",Para Betina Pengikut Iblis (2023)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%202023-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title="▶ VOD MALAY",Abnormal: Buas (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Abnormal%20Buas%202024-1-720.mp4
@@ -3126,12 +3146,6 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/46/Headhunter
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/AfjbEwtgd3TqkVSRbe9nYK9EJoe.jpg" group-title="▶ VOD MALAY",Tilam Perca (2022)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/51/Tilam%20Perca%20(2022)-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63InZxeGgfNQCoWkImR14fB99AY.jpg" group-title="▶ VOD MALAY",KKN di Desa Penari (2022)
-https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/KKN%20Di%20Desa%20Penari%202022.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wyRVXRygEOPpjTIcDz3z7ZXLZ45.jpg" group-title="▶ VOD MALAY",KKN di Desa Penari: Luwih Dowo, Luwih Medeni (2024)
-https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru37/KKN%20Di%20Desa%20Penari%20-%20Extended%202022.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RbCkzy7HTbvsdCpNQxp1SyUKw5.jpg" group-title="▶ VOD MALAY",Rumah Madu ku Berhantu (2021)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/44/Rumah%20Maduku%20Berhantu%202021.mp4
@@ -4377,6 +4391,9 @@ https://media-eu.cloudbox.ph/bibamax/Kaka%20(2021)%20-%20720p.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/drFfcbfseYY6mbAT8Oq2A4uxFG4.jpg" group-title="▶ VIVAMAX",Shoot Shoot! Di Ko Siya Titigilan! (2021)
 https://media-eu.cloudbox.ph/bibamax/Shoot%20Shoot%20(2021)%20-%20720p.mp4
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg" group-title="▶ VIVAMAX",Sex Drive (2026)
+https://cdn1.khflixcdnvideos.top/Sex.Drive.2026.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/lVgqSKS9JdhiJ9CfQcKmizYVDBY.jpg" group-title="▶ VIVAMAX",Apoy Sa Ibabaw Apoy Sa Ilalim (2026)
 https://cdn1.khflixcdnvideos.top/Apoy.Sa.Ibabaw.Apoy.Sa.Ilalim.2026.mp4
