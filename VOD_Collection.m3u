@@ -59,7 +59,7 @@ https://stream.playcdn.de/playlist/6fef7fc2304661fa1e8e43812bbeccd9/5/480.m3u8
 https://stream.playcdn.de/playlist/b9cba6696ab1029475a6a417ab4b2a55/3/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" group-title="▶ VOD FILM SERIES",Insidious Out of the Further (2026)
-
+https://stream.playcdn.de/playlist/c5075c9da7ece213050a95a22ebe3722/1/0.m3u8?x=1
 
 
 #EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg" group-title="▶ VOD FILM SERIES",Ghostbusters (1984)
@@ -136,16 +136,19 @@ https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru51/Escape%20Plan%20The%2
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg" group-title="▶ VOD FILM SERIES",Deep Blue Sea (1999)
+https://stream.playcdn.de/playlist/021fd6051023f146564c48d72e0eafeb/3/480.m3u8
 https://www.dropbox.com/scl/fi/wj78rlvzf7twahfnhg3hz/Deep-Blue-Sea.mp4?rlkey=ybgxi0yy77gxfpyxhurci8vko&st=oouanjrv&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg" group-title="▶ VOD FILM SERIES",Deep Blue Sea 2 (2018)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/31/Deep%20Blue%20Sea%202%20%5B2018%5D.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKthjUmxjHjvJK8FktFfQdmwP12.jpg" group-title="▶ VOD FILM SERIES",Deep Blue Sea 3 (2020)
+https://stream.playcdn.de/playlist/e00843171649cbac8b3cfad35ed220b9/2/480.m3u8
 https://www.dropbox.com/scl/fi/lkxoc029idqo8rj7gv5a5/Deep-Blue-Sea-3.mp4?rlkey=8vj6u1aar5klhf87827k2lzy3&st=2uzz2ufi&dl=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/33NysOnLpLZY0ewHTcfpalzAsRG.jpg" group-title="▶ VOD FILM SERIES",Anaconda (1997)
+https://stream.playcdn.de/playlist/a3f1961b469b0c755867d2e3c18f8096/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/9n6kvdemspp235h91rttx/Anaconda.mp4?rlkey=0qlepy4cgwiwxcp9bs6kb9oka&st=4b6syi06&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/apAZ6o1SyYgcC8R2LqTCYnBe1lK.jpg" group-title="▶ VOD FILM SERIES",Anacondas 2 The Hunt for the Blood Orchid (2004)
@@ -158,11 +161,15 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/14/Anaconda%203%20Offspring%2
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Anaconda%202025-1-720.mp4
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/si9tolnefLSUKaqQEGz1bWArOaL.jpg" group-title="▶ VOD FILM SERIES",Wicked: For Good (2025)
-https://www.dropbox.com/scl/fi/ue3ilyy30ulgjpqxyps1e/Wicked.For.Good.2025.720p.MalaySub.WEB.MSM.mp4?rlkey=iq61a2tw9n4pbq0u4nsvwfcbf&st=706bguo8&dl=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg" group-title="▶ VOD FILM SERIES",Wicked (2024) MalayDub
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Wicked%202024-MalayDub-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg" group-title="▶ VOD FILM SERIES",Wicked (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Wicked%20(2024)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/si9tolnefLSUKaqQEGz1bWArOaL.jpg" group-title="▶ VOD FILM SERIES",Wicked For Good (2025)
+https://stream.playcdn.de/playlist/1bb496709440edfda43e567df74e5e77/2/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/ue3ilyy30ulgjpqxyps1e/Wicked.For.Good.2025.720p.MalaySub.WEB.MSM.mp4?rlkey=iq61a2tw9n4pbq0u4nsvwfcbf&st=706bguo8&dl=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oWT70TvbsmQaqyphCZpsnQR7R32.jpg" group-title="▶ VOD FILM SERIES",Blade (1998)
@@ -210,15 +217,19 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/RoboCop%20(
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/j09ZkH6R4JWVylBcDai1laCmGw7.jpg" group-title="▶ VOD FILM SERIES", The Expendables (2010)
+https://stream.playcdn.de/playlist/8d94d4ba3633312efdcdd6cb1c7fc0a1/11/480.m3u8
 https://www.dropbox.com/scl/fi/nhkir0xjn4i10w2b9kqxn/The-Expendables-2010.mp4?rlkey=6w28bax6wjdjd87f780myzj3m&st=qxobay73&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/74rTIGyGoIu5KSxDVMdr8H3MtMo.jpg" group-title="▶ VOD FILM SERIES", The Expendables 2 (2012)
+https://pixeldrain.com/api/file/EMfPM18H?download
 https://www.dropbox.com/scl/fi/tj4t76g743vf73oa21y6p/The-Expendables-2-2012.mp4?rlkey=b9iy0rxkmopnxfz7kuc6m7yjl&st=trx82nrg&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/utS5euWHlEdKBNnEFwjpZ2oGuhF.jpg" group-title="▶ VOD FILM SERIES", The Expendables 3 (2014)
+https://pixeldrain.com/api/file/SG59g1VW?download
 https://www.dropbox.com/scl/fi/zddxpq62ehuvy9gp28ju0/The-Expendables-3-2014.mp4?rlkey=4d2db728g5a0o81k4a54omknj&st=ckkdupwj&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg" group-title="▶ VOD FILM SERIES", Expend4bles (2023)
+https://pixeldrain.com/api/file/wHRvXfKk?download
 https://www.dropbox.com/scl/fi/xq25h4657n664mtiovadj/Expend4bles-2023.mp4?rlkey=bib4l9u0egs7ycx2qk2yimc8p&st=jezdvab8&dl=1
 
 
@@ -244,10 +255,10 @@ https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminato
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg" group-title="▶ VOD FILM SERIES", Terminator Salvation (2009)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Terminator%20Salvation%20(2009)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vvevzdYIrk2636maNW4qeWmlPFG.jpg" group-title="▶ VOD FILM SERIES", Terminator 3: Rise of the Machines (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vvevzdYIrk2636maNW4qeWmlPFG.jpg" group-title="▶ VOD FILM SERIES", Terminator 3 Rise of the Machines (2003)
 https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Terminator_3_Rise_Of_The.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg" group-title="▶ VOD FILM SERIES", Terminator 2: Judgment Day (1991)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg" group-title="▶ VOD FILM SERIES", Terminator 2 Judgment Day (1991)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Terminator%202%20Judgment%20Day%20(1991)-1-720.mp4
 https://www.dropbox.com/scl/fi/no6qmvfab82mzt9znakhp/Terminator-2-Judgement-Day-1991.mp4?rlkey=pph2xhp4p6lbtmq7o5j4u3wci&st=kt8fr1br&dl=1
 
@@ -267,28 +278,38 @@ https://47229.ohflix.workers.dev/0:/x32/NewVersion/46/Night%20At%20The%20Museum%
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg" group-title="▶ VOD FILM SERIES",Species (1995)
+https://stream.playcdn.de/playlist/6f8d4211e33fba355b7cd811507e6f14/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/0fxur96lx412syyxlr7ku/Species-I.mp4?rlkey=8rd1ok52tpjnj3ccghnox9ucu&st=m490yq7g&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8LSBi0bHACZtIiVErUBQ2UXNYLA.jpg" group-title="▶ VOD FILM SERIES",Species II (1998)
+https://stream.playcdn.de/playlist/ba406f5b78c2fae743caec92131783dd/12/480.m3u8
 https://www.dropbox.com/scl/fi/1tujw6gq9bf586nnkzcbq/Species-II.mp4?rlkey=4439t5zdiehql25sy0h1b8t5l&st=nr94n6lu&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8BelHo8qmaurZjPS9hipSQ79Rr6.jpg" group-title="▶ VOD FILM SERIES",Species III (2005)
+https://stream.playcdn.de/playlist/204c45f38a39516903991aaefb6dccbb/3/480.m3u8
 https://www.dropbox.com/scl/fi/mlr0jse8akooaygsyp6vm/Species-III.mp4?rlkey=gqa811sjtbv2kshsedh4gxds9&st=so6ooy68&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wPsu2NM0eUpoqycgjjnRJIwxK13.jpg" group-title="▶ VOD FILM SERIES",Species The Awakening (2007)
+https://stream.playcdn.de/playlist/1190fba0e592f3e27c0153a853fe92ad/21/480.m3u8
 https://www.dropbox.com/scl/fi/tmeh19lveauxwc1gtu823/Species-The-Awakening.mp4?rlkey=2s3514cw08agrro0qeo7gcsq1&st=orxlqh7b&dl=1
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5mI8yqZZBlZpvd0aT5YXbR8oEvT.jpg" group-title="▶ VOD FILM SERIES",Death Race 2050 (2017)
+https://stream.playcdn.de/playlist/4fcdb5fd885ccc4d54cba5bd0157f7e1/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg" group-title="▶ VOD FILM SERIES", Death Race 4 Beyond Anarchy (2018)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/31/Death%20Race%204%20Beyond%20Anarchy%5B2018%5D.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aRV4oC61nmBqypSaXtMXOk99dOM.jpg" group-title="▶ VOD FILM SERIES", Death Race 3 Inferno (2013)
+https://stream.playcdn.de/playlist/8bcecb7e6063aa452e7b7559a65d8efd/4/480.m3u8
 https://www.dropbox.com/scl/fi/yv4cmuahsrifgd5obpsqj/Death-Race-3-Inferno-2013.mp4?rlkey=wfx7vjpkuia51szbi6hnld5m0&st=2s47nu3v&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg" group-title="▶ VOD FILM SERIES", Death Race 2 (2010)
+https://stream.playcdn.de/playlist/f55b72ba8839b3bc049334ae0bb978ba/4/480.m3u8
 https://www.dropbox.com/scl/fi/ze2hda7ezzuqaim4zqcab/Death-Race-2-2010.mp4?rlkey=4qi8gfeuapm9usgwjnd8afa3v&st=pl0gb64n&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg" group-title="▶ VOD FILM SERIES", Death Race (2008)
+https://stream.playcdn.de/playlist/fc4cecdfb10cfd1455f33ed3bf5c0d4e/5/480.m3u8
 https://www.dropbox.com/scl/fi/bgj4ru8anj6mjj0xo56ho/Death-Race-2008-malay-sub.mp4?rlkey=6iqd7q4q455ckiaws911osrrx&st=fgzxiwly&dl=1
 
 
@@ -299,6 +320,7 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Lee%20Cronins%20The%2
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Mummy%202017-1-720n.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg" group-title="▶ VOD FILM SERIES", The Mummy Tomb of the Dragon Emperor (2008)
+https://stream.playcdn.de/playlist/a6a47e252cb355b3396cb8e26a035250/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/mo93m8hu0xi7woopkfh6m/The-Mummy-Tomb-of-the-Dragon-Emperor.mp4?rlkey=sb54mcz0y8i2xypxql9tub2qo&st=bacbztgw&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg" group-title="▶ VOD FILM SERIES", The Mummy Returns (2001)
@@ -318,6 +340,7 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Percy%20Jac
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg" group-title="▶ VOD FILM SERIES", The Hunger Games Sunrise on the Reaping (2026)
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg" group-title="▶ VOD FILM SERIES", The Hunger Games The Ballad of Songbirds & Snakes (2023)
+https://stream.playcdn.de/playlist/ebd5a7f0a39c028f7bfac0553e1de668/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/wcmyswu1oft4jcgcula3m/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes.mp4?rlkey=mbbzjmwp8jpuuvqloe9q9ftf4&st=2vt7jnoz&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lImKHDfExAulp16grYm8zD5eONE.jpg" group-title="▶ VOD FILM SERIES", The Hunger Games Mockingjay - Part 2 (2015)
@@ -351,18 +374,22 @@ https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Pacific%2
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg" group-title="▶ VOD FILM SERIES", Godzilla x Kong The New Empire (2024)
+https://pixeldrain.com/api/file/9uu84DWb?download
 https://www.dropbox.com/scl/fi/0ok1sh744j9fcskaclor3/Godzilla-x-Kong-The-New-Empire.mp4?rlkey=20acwhojo9i3jvtrq3934hq8u&st=ss645k5b&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2E2WTX0TJEflAged6kzErwqX1kt.jpg" group-title="▶ VOD FILM SERIES", Godzilla Minus One (2023)
+https://stream.playcdn.de/playlist/93d97e1ede41efaee4cef1f03727a299/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/wl2746gntcgpurboumvzf/Godzilla.Minus.One.2023.mp4?rlkey=fv724ec8cd5ointt6r12td78u&st=pezm5d5b&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="▶ VOD FILM SERIES", Godzilla vs. Kong (2021)
+https://pixeldrain.com/api/file/1Cu5QHoA?download
 https://www.dropbox.com/scl/fi/ke0r2d62e5s85gu36mpet/Godzilla-vs.-Kong.mp4?rlkey=r71il81vqkb2rkpw9548h7yji&st=4f8841lk&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg" group-title="▶ VOD FILM SERIES", Godzilla King of the Monsters (2019)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Godzilla%20King%20of%20the%20Monsters%202019-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg" group-title="▶ VOD FILM SERIES", Godzilla (2014)
+https://stream.playcdn.de/playlist/b1a7190146c0ca405c4ada809d1d2c92/1/480.m3u8
 https://www.dropbox.com/scl/fi/cxwm1lx3bmk5l4fc9no1b/Godzilla.mp4?rlkey=0a096qttyfvtrkn11pev07hwb&st=4yjqkd7b&dl=1
 
 
@@ -371,6 +398,7 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Kong%20Skul
 https://www.dropbox.com/scl/fi/qyj2s5ki4xzlflayyu3a9/Kong.Skull.Island.2017.mp4?rlkey=rfu0s9e746vap8cskfyexdx5w&st=y578x316&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg" group-title="▶ VOD FILM SERIES", King Kong (2005)
+https://stream.playcdn.de/playlist/KREnKWgSGC8lfEV8cwV7Dwc6DQJoTU9xHQkoPiZFJjQtGS0/36/480.m3u8
 https://www.dropbox.com/scl/fi/tvhzh0bpbpf1wfz7s7mta/King-Kong-2005.mp4?rlkey=9o5u31ihhnigr6sp7f1d7kfvt&st=8ankei3l&dl=1
 
 
@@ -409,6 +437,7 @@ https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Jumanji%2
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ekHPrneEoa1EoDclWdillOKznqM.jpg" group-title="▶ VOD FILM SERIES", The Huntsman Winter's War (2016)
+https://stream.playcdn.de/playlist/ef4433c3bd2ac67221cd2563fe20851d/4/480.m3u8
 https://www.dropbox.com/scl/fi/ss744c0xze0ky69945wxr/The-Huntsman-Winters-War-2016.mp4?rlkey=dn6tv6rbmmucparpjn9bryxfb&st=aw4thne0&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg" group-title="▶ VOD FILM SERIES", Snow White and the Huntsman (2012)
@@ -509,6 +538,7 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bArhvjRHl535XMaSh9VjInF2mSZ.jpg" group-title="▶ VOD FILM SERIES",Resident Evil Welcome to Raccoon City (2021)
+https://stream.playcdn.de/playlist/2616277f3ebddfe679b8844a399585c5/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/vuko8nwxd815gzmirkljc/Resident-Evil-Welcome-to-Raccoon-City.mp4?rlkey=ih63cs8b7pffdfwoutjm8lbmr&st=b47osobz&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg" group-title="▶ VOD FILM SERIES",Resident Evil The Final Chapter (2016)
@@ -583,7 +613,6 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Final%20Destination%2
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg" group-title="▶ VOD FILM SERIES", Avatar Fire and Ash (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Avatar%20Fire%20and%20Ash%202025-1-720.mp4
-https://fav.larhu.website/hls/vxzxgl67qkqfycihmto7zqpgihnm6x5j44napkih373jcn3ljtz5yxma7aoq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="▶ VOD FILM SERIES", Avatar The Way of Water (2022)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Avatar%20The%20Way%20Of%20Water%202022-1-720.mp4
@@ -624,6 +653,7 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Alein%2
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/Alien%20Covenant%20(2017).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg" group-title="▶ VOD FILM SERIES", Alien Resurrection (1997)
+https://stream.playcdn.de/playlist/af7be902f900e9f3ed7e3891ca2e8310/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/83strbh69klo4wf7ea2d1/Alien.Resurrection.1997.mp4?rlkey=5da6t58z8ml66l0igvl8bsmr4&st=el6cj792&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg" group-title="▶ VOD FILM SERIES", Alien³ (1992)
@@ -636,29 +666,34 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Aliens%20(1
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/Alien%20(1979)%20BluRay%20DC.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg" group-title="▶ VOD FILM SERIES", Prometheus (2012)
-https://fav.larhu.website/hls/vxzxgp2cqoqfycihmtl7zrn3b6ggnbt6pwobiqonfzmdfh7lmcejrpe7hxda/index.m3u8
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Prometheus%202012-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="▶ VOD FILM SERIES", Cowboys & Aliens (2011)
+https://stream.playcdn.de/playlist/e6b96363157d4c43b52bedefe93602ce/2/480.m3u8
 https://www.dropbox.com/scl/fi/9n3hhz9zfnl76pxoirfpf/Cowboys-Aliens-2011.mp4?rlkey=sqztlx999apk5jvfgbjnodked&st=6g3t1xst&dl=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="▶ VOD FILM SERIES", The Equalizer 3 (2023)
-https://www.dropbox.com/scl/fi/1bzg7z59dcx9fn8vvrjad/The-Equalizer-3.mp4?rlkey=yc1365b6b4088hofck4mtp8kj&st=uqsny6ui&dl=1
+https://pixeldrain.com/api/file/Y2brrG9r?download
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg" group-title="▶ VOD FILM SERIES", The Equalizer 2 (2018)
-https://www.dropbox.com/scl/fi/wvq1cow0jp3lfe0ypiwa5/The-Equalizer-2.mp4?rlkey=lnux2myxl1322rjvtqi5qcbi9&st=mo4x3fhw&dl=1
+https://dl.dropboxusercontent.com/s/0tjkh8s85wnax1w/-%20The%20Equalizer%202%20%282018%29.mp4?dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" group-title="▶ VOD FILM SERIES", The Equalizer (2014)
+https://stream.playcdn.de/playlist/98d03c3e5856ab48ef215277515de713/3/480.m3u8
 https://www.dropbox.com/scl/fi/84dxgxn0rc2edt0zi37q8/The-Equalizer.mp4?rlkey=zdhi9xdol6rvrefkgdto3d7qz&st=vl2rlrzk&dl=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xT98tLqatZPQApyRmlPL12LtiWp.jpg" group-title="▶ VOD FILM SERIES", The Hobbit The Battle of the Five Armies (2014)
+https://stream.playcdn.de/playlist/113b25d9ac5853b0c60a714ae3c6f3d8/11/480.m3u8
 https://www.dropbox.com/scl/fi/7bequz9tseio4y47ar042/The-Hobbit-The-Battle-of-the-Five-Armies.2014.mp4?rlkey=y160fvtf5zqeti20h05tdm50r&st=dlf9124r&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg" group-title="▶ VOD FILM SERIES", The Hobbit The Desolation of Smaug (2013)
+https://stream.playcdn.de/playlist/7a023b9b1918fbbdcce96bcb22c334f2/5/480.m3u8
 https://www.dropbox.com/scl/fi/t4k05ycdgvzutkd0qjl3p/The.Hobbit.The.Desolation.of.Smaug.2013.mp4?rlkey=a1q3yn6ed2c53oze6dx8ffbi7&st=qbabbv82&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" group-title="▶ VOD FILM SERIES", The Hobbit An Unexpected Journey (2012)
+https://stream.playcdn.de/playlist/f27ea7669f72189e629db0d14729d849/2/480.m3u8
 https://www.dropbox.com/scl/fi/3f3ppe310tgaf1o74zaj0/The-Hobbit-An-Unexpected-Journey.mp4?rlkey=hknp60cad0iojepqdnsfeiw0n&st=w7o7b0vb&dl=1
 
 
@@ -745,7 +780,6 @@ https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zzSuperman%202025-1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="▶ VOD FILM SERIES",Superman Returns (2006)
 https://www.dropbox.com/scl/fi/u9wj5id7giv13buxkcrxd/Superman.Returns.2006.MalaySub.mp4?rlkey=ikuz2uzasp5wd7tfzh5qn0avt&st=v5yhblu4&dl=1
-https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zSuperman%20Returns%202006-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="▶ VOD FILM SERIES",Superman Returns (2006)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zSuperman%20Returns%202006-1-720.mp4
@@ -773,6 +807,7 @@ https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/The.Dark.
 https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/The.Dark.Knight.2008.IMAX.BluRay.720p.mkv
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sPX89Td70IDDjVr85jdSBb4rWGr.jpg" group-title="▶ VOD FILM SERIES", Batman Begins (2005)
+https://stream.playcdn.de/playlist/021a1a77d1b79405e00e720e9b726428/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/dj51qp9mdmvsqkdgg09uu/Batman-Begins.mp4?rlkey=fk6vxhzytjqebttzdssz1mwdb&st=840b49xp&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg" group-title="▶ VOD FILM SERIES",Batman & Robin (1997)
@@ -796,6 +831,7 @@ https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layo
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="▶ VOD FILM SERIES", The Matrix Resurrections (2021)
+https://stream.playcdn.de/playlist/f571435bc4cf7b8bd51e76a5bff35167/11/480.m3u8
 https://www.dropbox.com/scl/fi/6wpg7fppsm6npwk0bifih/The-Matrix-Resurrections.mp4?rlkey=o0h7qc6xk61i4ftbbgtumhii6&st=4uuq13mi&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg" group-title="▶ VOD FILM SERIES", The Matrix Revolutions (2003)
@@ -900,6 +936,7 @@ https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Deadpool2
 https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Deadpool2016720%20Malay%20Hardsub.mkv
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg" group-title="▶ VOD FILM SERIES", Logan (2017)
+https://stream.playcdn.de/playlist/e7eb32111aa319b2c32a499c20f76289/6/480.m3u8
 https://www.dropbox.com/scl/fi/0e6smilap428ezvw4309j/Logan.mp4?rlkey=sfhpl0uggb8uyaaric9irq44x&st=3trumkjc&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg" group-title="▶ VOD FILM SERIES", The Wolverine (2013)
@@ -928,17 +965,21 @@ https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Venom%2
 
 
 #EXTINF:-1 type="movie" group-title="▶ VOD FILM SERIES" tvg-logo="https://image.tmdb.org/t/p/w1280/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",Morbius (2022)
+https://stream.playcdn.de/playlist/ddffae892d04c091ce880cc05ca6c175/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD FILM SERIES" tvg-logo="https://image.tmdb.org/t/p/w1280/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",Shang-Chi and the Legend of the Ten Rings (2021)
-
+https://stream.playcdn.de/playlist/994e4d97862a1db03e2cb9d5c85b306e/4/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD FILM SERIES" tvg-logo="https://image.tmdb.org/t/p/w1280/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",Black Widow (2021)
+https://stream.playcdn.de/playlist/6a1a1f37c6b6f5d626acfc1f99daa821/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/3jtyz4qzfdyxlnbfa5adr/Black-Widow.mp4?rlkey=8sb7k816k9quhjcc5fkx1f6kj&st=ydmwk0di&dl=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD FILM SERIES" tvg-logo="https://image.tmdb.org/t/p/w1280/lFByFSLV5WDJEv3KabbdAF959F2.jpg",Eternals (2021)
+https://stream.playcdn.de/playlist/34d480d725ad4b81bd0180bc3cd4ccdc/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/qpot5av8tmwv123u0t9bf/Eternals.mp4?rlkey=hilxkls0n3juh40d2xame410h&st=g9dzunee&dl=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD FILM SERIES" tvg-logo="https://image.tmdb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg", Black Panther Wakanda Forever (2022)
+https://stream.playcdn.de/playlist/bdd525438c5765d9f56d1bd133581510/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/0b3ygyv8nxdjnnf46fsm3/Black-Panther-Wakanda-Forever.mp4?rlkey=iw64m40tjjslgkjtz4kvqqejk&st=fxx7uhfk&dl=1
 
 #EXTINF:-1 type="movie" group-title="▶ VOD FILM SERIES" tvg-logo="https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg", Black Panther (2018)
@@ -1039,8 +1080,7 @@ https://47234.ohflix.workers.dev/0:/x35/NewVersion3/27/Spider-Man%20No%20Way%20H
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/Spider-Man%20No%20Way%20Home%202022%20Extended.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iPOn6DinuVyLY17YM9mKuPofV08.jpg" group-title="▶ VOD FILM SERIES", Spider-Man Brand New Day (2026)
-https://www.dropbox.com/scl/fi/t5kl1usy8eun6y8ir3bzy/Spider-Man.Brand.New.Day.2026.mp4?rlkey=yeyfis0jx9in1h5e45nhhj8ny&st=72d71tnq&dl=1
-https://www.dropbox.com/scl/fi/4kvkog026w9mrxgqgtpxb/Spider-Man-Brand-New-Day-2026.mp4?rlkey=1somniikfawiqu4pbnn5u8eoh&st=611r7a3k&dl=1
+https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="▶ VOD FILM SERIES", Iron Man (2008)
@@ -1093,9 +1133,11 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru37/Avenger
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg" group-title="▶ VOD FILM SERIES", Jack Reacher (2012)
+https://stream.playcdn.de/playlist/bb1e7af08345820d0ae8eadb20bd91a2/5/480.m3u8
 https://www.dropbox.com/scl/fi/j6ltkktl9shpgbqrw3zgo/Jack-Reacher-2012.mp4?rlkey=l0wkchuruie63doacxevd3ali&st=d8zwbnbf&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg" group-title="▶ VOD FILM SERIES", Jack Reacher Never Go Back (2016)
+https://stream.playcdn.de/playlist/749143cd2154425833c98ac5512ce95a/5/480.m3u8
 https://www.dropbox.com/scl/fi/j130c2dd5c43x3fg7p62w/Jack-Reacher-Never-Go-Back-2016.mp4?rlkey=rth9vtwkuxp3dwbaatjxbts9e&st=x94cdina&dl=1
 
 
@@ -1126,6 +1168,7 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Mission%20Impossible%
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg" group-title="▶ VOD FILM SERIES", Jurassic World (2015)
+https://stream.playcdn.de/playlist/caef4810fd258a3a851e1937459d25fb/4/1080.m3u8?x=1
 https://www.dropbox.com/scl/fi/hr2fy7ixwr9fhhng2fern/Jurassic-World.mp4?rlkey=c8ulm3ej412t5frkgn7wplpim&st=bg1a21ul&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg" group-title="▶ VOD FILM SERIES", Jurassic World 2 Fallen Kingdom (2018)
