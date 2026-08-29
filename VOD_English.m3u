@@ -3,12 +3,11 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
-
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg" group-title="▶ VOD ENGLISH",The Sheriffs of Savage Wells (2026)
 https://stream.playcdn.de/playlist/daf5ec32f7a7d80ba9b334341910bcef/1/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/r0hCOPsYHFc7qok51canND9TVoN.jpg" group-title="▶ VOD ENGLISH",Pinocchio Unstrung (2026)
-https://stream.playcdn.de/playlist/56791e0daeeb2c96a52ed6dd3836d981/1/480.m3u8
+https://stream.playcdn.de/playlist/56791e0daeeb2c96a52ed6dd3836d981/1/480.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" group-title="▶ VOD ENGLISH",Mutiny (2026)
 https://stream.playcdn.de/playlist/f076a7a7d091ec197c1bfb71d211183d/1/480.m3u8
@@ -21,6 +20,9 @@ https://www.dropbox.com/scl/fi/q9zrpkd0eyuvtrzvxlq6u/Young-Washington-2026.mp4?r
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="▶ VOD ENGLISH",Lucky Strike (2026)
 https://stream.playcdn.de/playlist/Lg0qJTxUBDUwOBwpbgJmanRVHgsHPTseGg5GKXRSYjl2Hg/43/480.m3u8
 https://www.dropbox.com/scl/fi/rxtzr0il1rcdhtjbe2yzl/Lucky.Strike.2026.mp4?rlkey=od7a7fv2j4kpj8lxspqhpeu02&st=mitvult1&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="▶ VOD ENGLISH",The Last House (2026)
+https://stream.playcdn.de/playlist/Lhk6OmgRGDQxNFp-cwJgdRU9CwoJJi8eJGMUKXQHN2w/43/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="▶ VOD ENGLISH",Soulm8te (2026)
 https://stream.playcdn.de/playlist/MRc8IihBAyRvY0d-dR0BHQA8BREdJhEncjMUf3MD/43/480.m3u8
@@ -1654,9 +1656,6 @@ https://stream.playcdn.de/playlist/c033551f5de9a3af0e146c3c38f0d9f9/11/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kQgnptYNK9wGW50KGwSavEGSnPd.jpg" group-title="▶ VOD ENGLISH",Apocalypse Clown (2023)
 https://stream.playcdn.de/playlist/689f97ac4ab4dd6b223c1e8e443875c0/22/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="▶ VOD ENGLISH",The Last House (2026)
-https://stream.playcdn.de/playlist/Lhk6OmgRGDQxNFp-cwJgdRU9CwoJJi8eJGMUKXQHN2w/43/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg" group-title="▶ VOD ENGLISH",Hacksaw Ridge (2016)
 https://stream.playcdn.de/playlist/35826c7377b72781e43420f0de0b327b/5/480.m3u8
