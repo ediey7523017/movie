@@ -5,466 +5,466 @@
 
 ################################################################## KIDS SERIES ######################################################
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E01
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=824ee9136a7359b3d863a49a060a1310:b3bd6f5849cfbde8dd86a517965d4cd1
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/aa8cc69a-4ed6-5731-86aa-4d74dc5dc361/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E02
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=38dd16a00438d9383149883246f98a10:736515045f1cbf46f07a2a2a8486e40f
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/5854e2f5-341e-5649-98ff-007efb5a8b05/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E03
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=d8f41af84cb812269096e97ee54a7710:283f765712137c4d46db1ecab03f8673
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bdb310d3-9192-5bda-ad61-8f5b2bd7a728/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep04" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E04
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep04" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a7c44dbe9bc25905b57e265e875bd910:ae3e60531e09d55dc21e7d19ece46b81
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9f489978-5da4-5a71-8937-9ad5b368ad02/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep05" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E05
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep05" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=d4ded7add1a032af221b1abc1b05d010:5ad6852d22f2b5378dae37bfea06bfd4
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f460275b-3ef9-5423-81d9-2af728325922/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep06" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E06
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep06" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=76a89ef474a1bc8c39d23c5288d0ec10:f7d95289bc8a63ebcc88f4d1e0b7bf39
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a472ac30-3afa-54fd-9ab6-ce90c7d5cce8/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep07" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E07
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep07" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=73e36174eec584e0288981b9974dfb10:bacbb69c0cbaa20c2a1aaad8135dfcfe
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/01be4c32-6cc8-5bfd-8e6c-a3f3d0904411/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E08
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=69ff17e53da391100f153b4514f77910:b515220973c94a9c85643e83397580c0
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/45573d69-e89c-580a-ad6f-515bee45cfa8/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep09" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E09
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep09" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E09
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=66ef854f8aebadd94992e5860a149e10:5639a4c3425d8378d829300ca1100631
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d337972a-5aa9-5439-9ed3-1b8dff62d224/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep10" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E10
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep10" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=61574c10b8362abb05be992c5955bf10:b684fbaf2fb220144d1d1e6f190536a9
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bfb02cbe-2cc2-534b-9393-c62d4933ec6f/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep11" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep11" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=433755d5d3d0647b52bd0a9171c0fa10:66bf888bddcb1f4aa17836386d90cd75
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4421c6b0-e894-55b1-bede-f8c5b5516abf/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep12" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E12
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep12" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=281b7cf6e3573f1c8f01d449e50d3e10:01530272ac613dcd7c76f8392d4554df
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/071a82df-c8ba-5cbf-bb07-3acc3391db6b/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E13
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=1f6887fabb7deaeffbac2c08ee03a810:8fdcd359cf9d7f7fb63a08a2333df17e
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2d491490-f6b5-5105-b9fe-b8cd8ca223e0/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep14" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E14
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep14" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E14
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=ac4f9db54118c36414d34456a4b26910:5e42d1dc78e5654d68d66038447a1e98
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/86122bc2-61f2-5df3-90b5-7168ae942c92/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E15
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=669cab2ff93f9d8737d1fd14e561d510:8fac81e0b55eb821a4858651c920a494
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/76c2bf59-8bde-5887-b809-4833f52814b8/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E16
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=9f0f8e933b18eca6c21a365ea3be7010:986cff0e848f6c34d048c206d9e45857
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/0c1c60b9-c6d6-5e6d-a4bf-bf2b1588c19a/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E17
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f6928ede6195832d43ef287abb802610:3bf7d64dddd788b52d32abd0e8eaea73
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/de6c2122-4ec1-56d5-a206-102a4c83fe92/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E18
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=97d03e13c8316c6db2f5839d955c2310:ec4940ce3bfe0a42fa4f3f6bc26ff9df
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c7e85700-c284-51ef-9961-001b08427e9e/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep19" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E19
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep19" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=6d94464630154b21d14a1d2ed99d9610:307714ec4819111e808aadb529485390
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bb599400-a696-59ad-ad26-2dc819be457b/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep20" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E20
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep20" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=5dea4d64ed86c6bbfce64733473e2310:0f940730da268a7b367b5d2b2aec2a7c
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/733a253c-5632-5733-98a8-40ede773c915/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep21" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E21
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep21" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E21
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=7a40271f8e2aaf247b7e68ccfaf7d110:9dbfbb7db406f157734084e0428bdf21
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d49c4071-0574-51a2-8678-594687775f96/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep22" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E22
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep22" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=1d096143960497bf5c6fe32f2d02c110:2e438d897d5cf0a96f68d2612a6e8736
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/72a1624e-21dd-580c-a1ce-c5af85af984f/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep23" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E23
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep23" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a03bec077d45f05e12712669c9df5510:bf8f95904ef03d58b6485bbe920553d6
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ec46fecd-ebd8-53d7-a9a4-522567d7a094/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep24" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E24
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep24" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=7c6a24036bbfe7cdc32ae02191d6c710:7a13abe057e5765c2804ed5e7aa7235d
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e497808f-a1a6-51db-9d88-695df80e8150/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E25
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=9335cfd2a62a9f12ebb91374d6bf6610:8167b83f292622262fd9bedaca241751
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e20ade10-62eb-51d9-9247-fc31a1b10ee2/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E26
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=48dfbb1dee16b5272ac00905c92cae10:4eebad32e3ffe3b3def3b561197527a1
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7f5816e0-21bd-5484-ac39-1343634e9743/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E27
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E27
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a220f2d6ce8bdb33a710e019b821e810:833fdb3c397e5dffd9ed48454c5b7388
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3d06051f-71df-58d8-9782-027791f06e37/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E28
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E28
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=15320a32b9aee4e9e49a98938fc60810:2c931b37bae2c891e27eabf0b51236a2
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d0f04a00-1a6e-57ad-be3c-9ee29e40b8c7/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E29
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b4cb73e2257f665a28480b0933044b10:578d418f12bdc8d4c494c6047404001b
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d2e0c625-49eb-5cac-a09d-869be9797ece/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E30
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=0b3392d890ab7ebbbb21a6760bcd4610:e9318848ceffda9a5ad5c8ccd14d61fa
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/15af3a65-c0c6-5f16-8c44-33b8f886beec/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E31
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E31
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=44055e91cda625f40be3135060c8b510:3f6412cb6d9c8bef9c0f8accc29d98ba
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e28b15be-c635-584f-84fa-eb0f19a38c21/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E32
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=998775a44644c44400a481dfff9fe010:a09cb4bb0f4de64f00805d90816c21bb
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e16dc871-87de-53c2-9574-e2092e026514/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E33
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E33
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=79b173bc35ec6811e40347fbe1c8db10:f6b2a5c74b034dc8a3a6ceaa7d6bcf5f
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/365ba732-aba2-50e1-b356-c9d42be1094b/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E34
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f10643bf1693759c4e47566c6fd94f10:9bcbd3e555cf1fc94188104b3cc57d62
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d1583302-2d3f-5954-9ddb-521191f870dc/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E35
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3bd2608e05b0f98bca275fb726af2510:bfea8040a539e67825a040a0029d7124
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ecfde37b-5af8-5b2d-a5f7-54a8b0b2aec4/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=6863624c84daf77ff3bf6c2e461cc510:9592fdf8b644f68d4fca2a0ce747a2b3
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/94cb1125-6d38-531e-84c4-90e69acf20d9/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E37
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E37
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4776d4910b87d849b07e1d0fe2d0db10:11497bc17743b9617269d5c755c240f5
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9aa3f771-293f-58d1-bd4e-e541b9f17462/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E38
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E38
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=492f0f2ff65c40e6e258ed28faa8ea10:15358b5c6d7b92ea0f2a5ce437c06882
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/640809ce-7142-521e-b8f3-3ab44d6ac6e9/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E39
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=1bfb94c5e8c1fe7b11aa221b0d7d7710:07a830f6209ffa94af52fbb059aa692f
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f2ff411e-521e-510e-9227-4fbc706afd03/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E40
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E40
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f2670bc7f56a5194d03891e0f25ce910:bf45e5eb7f413b7a833c09af2c4f6169
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/1a57f6a8-f2f6-5399-b7b3-2ff819491262/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E41
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E41
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=841bb23817bf6812e0f4e67d0921e410:4d8e84ba9a02a54f170be51068da9724
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c041dadb-7c48-57a5-8ac1-e756e3cc1c9b/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E42
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E42
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a30511bdee0a4189053593915c7df210:c809eb2c73009cd7da088eb4f34da77d
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2d2b93bb-5f42-59e2-b38b-50d30317d255/default_ott.mpd
 
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E01
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=848171a67a5a56ebec27eb4ee6aac810:4fd3f19c85ee5003ff34a9b3a540ee0d
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b9d52633-1b28-5c57-a7a7-dd929d7a5358/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E02
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=bb85fbca03791655b156ec2dd98f2210:0dcb21cf189b2e3491ef71f9169f1369
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b2163b0f-d4f2-53c9-b77a-011fe35bd014/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E03
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=8f1d7159108dc1b2a6287976459ac810:635832e558e6bcf142189a9037802624
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9d9121a2-b7e8-5bc8-af02-0f47ac707b05/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep04" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E04
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep04" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=32eeb67757bf91a7a37d04012aafad10:2be5aa21e780e24a82c4e7a01000f25f
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b9babc14-7ba9-539d-bc98-5680386f2938/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep05" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E05
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep05" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=991ab411ebb19ab7e03a04aef08d6010:823106dfc5d94e9b1e8e942db4ca1278
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e92f170a-86d4-5ae6-81b7-804bdf91c5ab/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep06" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E06
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep06" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=70359ef5f39517cca5c20fc3360e6910:36532bcb29be437dfca9c750dbc56829
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a52835d6-3c05-5d52-9075-ca5781be5d43/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep07" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E07
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep07" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4e675ff24f34cf91b78f8002d6d65010:441049adeed83f2059a2b7eb6987a57d
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a3439f3d-3bf9-5ea2-979f-1a2b2a5ce88e/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E08
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=36a18d0ca88699a7c232c0864f52c110:65ec2d79745db4c009c88d5cbb48b279
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c1a7f78e-fd57-598d-855b-128b37652491/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep09" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E09
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep09" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E09
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=821948b50e9088f9ae3c182b52ed4810:54ce1d5641db340993a6452e323c9247
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/80ce266a-b533-5971-b9cb-aa50211077ef/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep10" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E10
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep10" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a47ba2a0fc93da68bf3b9ddb52fb4810:008b27f18c297705e8a4db29abdba0ba
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f158080d-25a0-52bb-b7fe-19cf9727632f/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep11" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep11" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=e446e5dbd2d60ac28f2a09c7d4de4d10:6e98c9f114bbcbfce4d3e5ee27082f85
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/39b52e49-7369-515b-b02d-4a2007d2c286/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep12" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E12
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep12" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=ccf5dc6d1199b95002d2bcc3062d6a10:a86fcf63fbc64a6cc43b9066f3b9b10d
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/08717607-8f08-5921-9e61-0e4b44883244/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E13
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a40dee4bdfd4da0e41657265bb3a5f10:6aff2d98f720404b02a41250102e31b7
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/1f51dd50-7886-538c-9cb6-4d25691f9fea/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E15
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b13b3416d6d7682540a8f13283335510:05770259240b6b224fb9b0b7f2bee196
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/add21ffc-8b7c-5d4a-923b-047b3872159a/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E16
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=27b7ad462aee5b4dcc90a38f2a3b2910:efbb6f4eac362457bb773477b8a206ec
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/76e277ea-aafd-53a9-a462-df472d2b5b17/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E17
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=776d284298358b0c8e043e42c270c110:63f0096faf86b10c0bba09938289fb5e
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c1f2ff12-db10-5457-8a66-d587d2df141d/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E18
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f4197473174b4ff87945345704f3c610:a4b364f4bf47a1962a5375e9b58be288
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f77f12d8-ea92-572d-a7b2-34fec551304e/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E25
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3469056df3a7eaab745eb0cc54a51510:b16ca899f8cabd61d6d6554c50e0a74c
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b29941fb-4761-5872-a736-08ce17fbb6bf/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E26
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=2c45855c9c85b12b004188558a6ecf10:bf7014d69dcad8fb4b975ceed4344a4e
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3b8dc2cf-32ae-5834-95d2-600bd354074d/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E27
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E27
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=81f068b92c9323163aca006749eb5010:1369d15c8e497b58baefa0e437028cbe
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/31bf9325-7b1d-5491-ad5e-f7a48addef55/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E28
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E28
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=17cab034e999da8eee72f45ab0233110:ac59d91dfd4d8d6d35702a5d419010bf
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/951cc491-bcdb-5118-ad04-d192971280b9/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E29
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=22b6a8fd8c7f6c837f8bd9188624a210:3bc7e3ab378d1cc4584bb4f4b642321b
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4982fb28-31e8-50db-a120-2c32fc33fbeb/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E30
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=c1c1b16a839a7726f6265bf2a572b410:24252fa69e9cd2dcf50753b7edaf46ae
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/087757b3-02cb-5a12-878e-a589a762c8ba/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E31
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E31
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=0b79788be2b22a316e208d8e8e2c0d10:848fd424258cbf5ae1eee925441f86cc
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9f0eaca0-419f-53bb-be88-35da8c48ed89/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E32
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b9db9bfa46cce02a0b38707f97f6ed10:6cdb20684e92e80d85e5e9ed7a7ee38e
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c6954d18-3432-5f46-ab1d-3408e648b4a9/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E33
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E33
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=1944c9cc72d37837ea48cc0ee7d65b10:37df6138ceb495d02ac665c93ebc589c
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b72a4497-6f9a-5721-be70-7588f496802e/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E34
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=dc7fcd9014dd73da8bd8ee88ef9eea10:b144b138c413588f2cc1a668b5e48072
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/12fb67ac-debd-59f0-afb1-8f7e3d1fa61e/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E35
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b3f85f79be8bae2a70f8ff9c61f21f10:dc3b840d4171cb9f1e8afe971f941c02
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d7ca89f7-a426-5551-9277-6ba1a49067fd/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=0f7e55b296fde3199ff6984161007810:ec7d1772cab07c4d5ccab04c0f06990e
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4f6cf94d-f65d-5ca5-a8c7-dbfb1029244f/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E37
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E37
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=2893a337c23c56cbf9a886ba1fbc3210:fcbdcead1c5ec133bea234339f9c6099
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/dd451ea5-1332-532f-9912-9ea4b51afa85/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E38
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E38
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a96cbb4a5d388325a4fdcb54e2964110:29a732178ebb0b41e77a764bf26aa0ce
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d3f77541-64f6-57bf-8069-3dd89082230c/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E39
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=be6befe62747a9341cf01f4ef653eb10:ef7ff02577be9b5048065a94addcd50d
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9300aa38-4abc-5e4f-aedb-ee0a6043456e/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E40
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E40
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4a2e2397f07d3a887f66dd5e0ba76310:fe6b21e5616c352ef5db8d1090266d1c
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d3912a52-8c81-5eff-ba6e-ddf7b72ec4d8/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E41
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E41
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=1db2cad884cd89d242c7baa393d31210:43e15b0cf13eb577906f95406d1bdc3e
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4fc55073-33a2-5847-9b53-22137e461016/default_ott.mpd
 
-#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E42
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E42
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=9fb589eac3b7ed57e82ff91437e6e010:1f2681e3111ad035feeae83349a0d825
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7d0b1bde-0545-5898-9db3-af86031fed0c/default_ott.mpd
 
@@ -1123,109 +1123,109 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20SpongeBob%20Mov
 
 
 #EXTINF:-1 type="movie" tvg-name="Upin & Ipin: Keris Siamang Tunggal" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCG_p_IVP_PORT_390x585_92A9A_202679_172830.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Keris Siamang Tunggal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f11366dca7794d10c28265a912710d10:7185932853e48c9642e981c37dc97a65
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c512d12b-25be-55a6-93b6-e5a3f8661318/default_dash.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Upin & Ipin: Jeng Jeng Jeng!" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCF_p_IVP_PORT_390x585_92A99_202679_172610.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Jeng Jeng Jeng!
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=ea42bd8a8070ffdbeb01e10cb6cfb710:afbab91ae62866e4959371336be2276d
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/88d07487-bcaa-5d36-b6cb-5d60f9cb11eb/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Geng: Pengembaraan Bermula" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCE_p_IVP_PORT_390x585_92A98_202679_172423.jpg" group-title="▶ VOD KIDS",Geng: Pengembaraan Bermula
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=93a9f87399fde4d434bf3f133729eb10:c2856d937b4a6be6260cf0d1dddb207e
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c8570ed4-5654-575c-8309-c2f88986deca/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Didi & Friends The Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHPBN_p_IVP_PORT_390x585_907A6_2026319_72256.jpg" group-title="▶ VOD KIDS",Didi & Friends The Movie
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b890125f2c93bafacac22f6ff4b84510:f5aed0c8d249e17dde7d7864b6869dc9
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/594a478d-7f79-5d26-8ecc-d6dcaa122154/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="BoBoiBoy Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_p_IVP_PORT_390x585_6A6D8_202673_163032.jpg" group-title="▶ VOD KIDS",BoBoiBoy Movie
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b1affddcbfc2b3870388436d270bc110:58d4fe1ed38082be0d52f4b4a73840f0
 https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/12441e34-6cd9-5aae-8812-ffa26e39ed94/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Ribbit" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_GWNFE_P_IVP_PORT_390x585_7E668_20241023_134132.jpg" group-title="▶ VOD KIDS",Ribbit
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=5e396d3f8c6ffa4dcf4319e41511a010:86d3ff8feaa713d8cb209e1d9da87cb6
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bb159d3d-af36-52d2-bfca-a4e9bac17ffb/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Wheely" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYDVK_p_IVP_PORT_390x585_7E669_20241023_11392.jpg" group-title="▶ VOD KIDS",Wheely
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="The SpongeBob SquarePants Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVLXI_p_IVP_PORT_390x585_8A39B_20251117_13754.jpg" group-title="▶ VOD KIDS",The SpongeBob SquarePants Movie
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3def3edafdecf3288b25856a2a675f10:a17ad85c089dcc9a20a5b02687eb1434
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/30ae8eac-1806-5c73-9360-0f692d00e532/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="The SpongeBob Movie: Sponge Out Of Water" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVLXH_p_IVP_PORT_390x585_8A39A_20251117_13719.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie: Sponge Out Of Water
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=bb9e43e6e94f3099f371281c34d2a610:4d44b1253a76ff6f2faae92af80257c6
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/956fa51c-74c4-566a-9c34-d19f74e64b28/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Rumble In The Jungle" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXSN_p_IVP_PORT_390x585_73DA5_2025114_153641.jpg" group-title="▶ VOD KIDS",Rumble In The Jungle
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=fa246232c7feae3a66f012fb9fdd0510:a0de670e2e816a7ca5de5d56790a246f
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/15944c56-52ba-5eae-a881-be9087d715bc/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Maya The Bee 2 The Honey Games" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQCG_p_IVP_PORT_390x585_692A2_2024313_183312.jpg" group-title="▶ VOD KIDS",Maya The Bee 2 The Honey Games
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=c42095a9b596bedcda8ca976858df010:5fdc456f679707c0e0dc4854b2650325
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/624883ef-7825-56bc-b061-4a220c9dc1d8/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Maya The Bee 3 The Golden Orb" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQBL_p_IVP_PORT_390x585_692A3_2024313_183312.jpg" group-title="▶ VOD KIDS",Maya The Bee 3 The Golden Orb
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=07a3a5b7ab2f8389fff0b0fb39b8e810:8ba7fa74aba09e17e276c9f9966ef8ec
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/189401b3-75fc-54ca-a8f5-091ec0c449f6/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Norm Of The North: Family Vacation" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQUNQ_p_IVP_PORT_390x585_82602_2025226_1346.jpg" group-title="▶ VOD KIDS",Norm Of The North: Family Vacation
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=dcf96475a0dcd5969b8dcbfb7a243e10:8484815a083f716aee156f0ba7c2cae5
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7a70150d-df41-5fc8-a16b-683839e3a50d/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Norm Of The North: King Sized Adventure" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQULQ_p_IVP_PORT_390x585_825FF_2025226_22234.jpg" group-title="▶ VOD KIDS",Norm Of The North: King Sized Adventure
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4a57f640c4f935d58334575d3e4cc210:a45c141c2db2cc65607bf35709cec74b
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ea8fc5f8-cf6a-5a86-b60e-5ab9953dee14/default_dash.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Norm Of The North: Keys To The Kingdom" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQULO_p_IVP_PORT_390x585_825F9_2025226_222244.jpg" group-title="▶ VOD KIDS",Norm Of The North: Keys To The Kingdom
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=19823c96b26050f5a6687a5801362410:280156be4fdc4a1c2618070a17a108ba
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8fa24aa9-2e23-54f4-9b6f-386dded79263/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="The Tiger's Apprentice" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSXDY_p_IVP_PORT_390x585_87F2B_202591_1015.jpg" group-title="▶ VOD KIDS",The Tiger's Apprentice
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=12bbeebab2f2123167a48ee7925aa810:c491e047ab83358d015a0e528e1db87c
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8d7b52d9-eb44-5aa1-ad7e-04d6c164bd95/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Rumble" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBPCE_p_IVP_PORT_390x585_87F27_2025815_191923.jpg" group-title="▶ VOD KIDS",Rumble
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=d4ef11c6a492618e467449cb0e181110:6d2ed4cd72a372e16d31d8df12f5d217
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3127dad9-80d0-5e8d-8459-b7c18206c7e1/default_ott.mpd
 
 #EXTINF:-1 type="movie" tvg-name="Paw Patrol: The Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZVKI_p_IVP_PORT_390x585_87F26_2025815_19191.jpg" group-title="▶ VOD KIDS",Paw Patrol: The Movie
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=5762aa02d1d6ff61051a2e6a43621510:27eedccc48e7a2000578180392324551
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/dbe3832a-aef9-57b6-9552-8e74d3e5ec72/default_ott.mpd
