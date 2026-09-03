@@ -3,11 +3,17 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
-#EXTINF:-1 type="movie" tvg-logo="http://media.themoviedb.org/t/p/w600_and_h900_face/glALx6QaIgw1u4joXsnfHTjWi6D.jpg" group-title="▶ VOD ENGLISH",Just Play Dead (2026)
-https://cdn1.khflixcdnvideos.top/Just.Play.Dead.2026.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="▶ VOD ENGLISH",The Mongoose (2026)
+https://d5221.datatransfer.to/d/7bywozmz6cosj4l4ejwvjdnazcubjdk3xzdakordrypduvyeurkvoc5pkivx7lpd4lotjqod/video.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="▶ VOD ENGLISH",Moana (2026)
 https://cdn1.khflixcdnvideos.top/Moana.2026.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="http://media.themoviedb.org/t/p/w600_and_h900_face/glALx6QaIgw1u4joXsnfHTjWi6D.jpg" group-title="▶ VOD ENGLISH",Just Play Dead (2026)
+https://stream.playcdn.de/playlist/44fc9b381f649632a6be5fde69951795/1/0.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5O616X9vmRzQdB68PHzBewPittd.jpg" group-title="▶ VOD ENGLISH",The Dog Stars (2026)
+https://stream.playcdn.de/playlist/7a6d9ac83cff406bd8d38bae4dc2fdea/1/0.m3u8?x=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg" group-title="▶ VOD ENGLISH",The Sheriffs of Savage Wells (2026)
 https://stream.playcdn.de/playlist/daf5ec32f7a7d80ba9b334341910bcef/1/480.m3u8
@@ -75,7 +81,7 @@ https://stream.playcdn.de/playlist/NxYtKzcNGC8nfEV8cQV7Dwc6DQIaISh1cDROLXIGNQ/40
 https://www.dropbox.com/scl/fi/yaqdmnt3rs6gveznlh953/Undertone.2025.mp4?rlkey=xlkfvkr7jh0ry43rsegw7pghy&st=pnfz2nn7&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH",Supergirl (2026)
-https://stream.playcdn.de/playlist/MQ05KzceHjMufEV8cQZ7Dwc6DQIaISh1IDdPdXQGNQ/42/480.m3u8
+https://stream.playcdn.de/playlist/cdd5c4e9db57eef9843c3946b5c34aeb/2/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/4uflpqu4og3ee8wnnebkm/Supergirl.2026.mp4?rlkey=kgdm1tdrv6x5ckt4bt4uimjyb&st=5azr7cml&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="▶ VOD ENGLISH",Passenger (2026)
