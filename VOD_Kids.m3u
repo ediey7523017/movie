@@ -918,7 +918,6 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/Zootopia%202016.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg" group-title="▶ VOD KIDS",The Croods (2013)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/38/The%20Croods%202013.mp4
 
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="▶ VOD KIDS",Moana 2 (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Moana%202%20(2024)-1-720.mp4
 
@@ -1030,6 +1029,32 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/43/Mechamato%
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg" group-title="▶ VOD KIDS",Lightyear (2022)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru29/Lightyear%202022ok2.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg" group-title="▶ VOD KIDS",Tarzan (1999)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/11/Tarzan%20(1999)%20BluRay%20Dub%20Malay.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg" group-title="▶ VOD KIDS",The Good Dinosaur (2015)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/11/The%20Good%20Dinosaur%20(2015)%20Malay%20Dubbed.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jJaRhOk9FaPTIqP8L4NqnOYEXHo.jpg" group-title="▶ VOD KIDS",The Stolen Princess (2018)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/The%20Stolen%20Princess%20Malay%20hardsub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg" group-title="▶ VOD KIDS",Rio (2011)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/42/Rio%20(2011).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg" group-title="▶ VOD KIDS",Rio 2 (2014)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/42/Rio%202%20(2014).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg" group-title="▶ VOD KIDS",Epic (2013)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Epic%20(2013)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg" group-title="▶ VOD KIDS",Brave (2012)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Brave%20(2012)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg" group-title="▶ VOD KIDS",Mavka The Forest Song (2023)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Mavka%20the%20Forest%20Song%202023-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nYfa9yK6LlbE9K4U7Ved815RgMM.jpg" group-title="▶ VOD KIDS",TEKKEN: Blood Vengeance (2011)
+https://stream.playcdn.de/playlist/1d42f5110d55a284023a93ebfc6134bc/3/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="▶ VOD KIDS",Ice Age Adventures of Buck Wild (2022)
 https://stream.playcdn.de/playlist/e24f210c848e7ca895cb77ddeeaa3830/13/480.m3u8
@@ -1112,24 +1137,24 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Last%
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg" group-title="▶ VOD KIDS",WALL·E (2008)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Wall%20-%20E%20(2008)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="▶ VOD KIDS",Turning Red
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="▶ VOD KIDS",Turning Red (2022)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/27/Turning%20Red%202022.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="▶ VOD KIDS",Ratatouille (2007)
-https://stream.playcdn.de/playlist/5b9d3306413629218de36224864e2645/11/480.m3u8
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Ratatouille%202007-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ym7Kst6a4uodryxqbGOxmewF235.jpg" group-title="▶ VOD KIDS",Tangled (2010)
-https://stream.playcdn.de/playlist/70ec4ffc5b0e4c921150cc5e36e950f3/1/480.m3u8
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/Tangled%20(2010)%20Malay%20Dub%20.mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" group-title="▶ VOD KIDS",Cars (2006)
-https://stream.playcdn.de/playlist/889a5b4b91d898680e04485bcc0a9f48/25/480.m3u8
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Cars%20(2006).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg" group-title="▶ VOD KIDS",Cars 2 (2011)
-https://stream.playcdn.de/playlist/bc42527ae5a136bc9c9bb7b3e086136f/5/480.m3u8
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Cars%202%20(2011).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg" group-title="▶ VOD KIDS",Cars 3 (2017)
-https://stream.playcdn.de/playlist/d591d2d34483df3f6e750658bc9e15f5/5/480.m3u8
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Cars%203%20(2017).mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vRhnslP2gW0QDym7BsMeSuioUfK.jpg" group-title="▶ VOD KIDS",The Smurfs (2011)
