@@ -3,6 +3,9 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="▶ VOD ENGLISH",Mayday (2026)
+https://stream.playcdn.de/playlist/e30393245917ce0b10d6c6b4d0d2c68e/1/0.m3u8?x=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="▶ VOD ENGLISH",The Mongoose (2026)
 https://stream.playcdn.de/playlist/38e7a760d354fc4a12d434df791635f2/1/0.m3u8?x=1
 
