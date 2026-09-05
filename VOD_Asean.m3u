@@ -98,7 +98,7 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Beauty%20Inside%202
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Art%20of%20Seduction%20(2005)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rdmXkKPjGw43u4wp3aod4aIPiH.jpg" group-title="▶ VOD KOREAN",Husbands in Action (2026)
-https://stream.playcdn.de/playlist/Kg06LCQXEzJvMBQ4Kl84dXBIe3hoLjIDBh0oFBwFZ2x2QHwocg/42/480.m3u8
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Husbands%20in%20Action-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ocSsgFmdD06u6mTRumDjrm4qzjI.jpg" group-title="▶ VOD KOREAN",Our House (2025)
 https://stream.playcdn.de/playlist/LQ07Yy0WAjInfEV8cQV7Dwc6DQIaISgnJzRHKiYDbw/41/480.m3u8
@@ -418,6 +418,9 @@ https://www.dropbox.com/scl/fi/a53rf0xh5fooe99zobgfb/The.Five.2013.HDTV.mkv?rlke
 https://47227.ohflix.workers.dev/0:/x21/Tamil-Hindi/Tamil9/1/The%20Flu%20(2013)%20HDRip.mp4
 https://www.dropbox.com/scl/fi/8s81p1dkh4huyrxzjpkya/The.Flu.2013.720p.mp4?rlkey=ljn4p20jlo5mbdwu0q9ej8kvr&st=finyrvf6&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xhSn3NkcBpqzUx9NOYa6CdSwwXZ.jpg" group-title="▶ VOD KOREAN",Hi-Five (2025)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hi-Five%202025-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg" group-title="▶ VOD KOREAN",The Gangster the Cop the Devil (2019)
 https://stream.playcdn.de/playlist/65d8346501e787b4b042601f03098691/11/480.m3u8
 https://www.dropbox.com/scl/fi/s1brlgifxpe42pnvpyjpl/The.Gangster.the.Cop.the.Devil.2019.mp4?rlkey=c1bzlpjolwtka9tljeyq4bok4&st=bi3t9xf2&dl=1
@@ -701,7 +704,7 @@ https://www.dropbox.com/scl/fi/fbhog6wuhj7p8m4m0fxe4/hitman-2.mp4?rlkey=yclz5bme
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/The%20Match%20(2025)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/x8QdSeTe02X8f1EcO7yk90lTGNi.jpg" group-title="▶ VOD KOREAN",Handsome Guys (2024)
-https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Handsome%20Guys%202024-1-720.mp4
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Handsome%20Guys%202024-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hOYoIVY2DQdOkcLw0sEt9jFLvUj.jpg" group-title="▶ VOD KOREAN",Revolver (2024)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Revolver%202024-1-720.mp4
@@ -1449,6 +1452,9 @@ https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Steal%20My%
 
 ###################################################################### ▶ VOD ASEAN ######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" group-title="▶ VOD ASEAN",Hantu Dalam Sel (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hantu%20Dalam%20Sel%202026-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rw6edVMeERIZDWDX3u4Maip4d5M.jpg" group-title="▶ VOD ASEAN",The Corpse (2025)
 https://stream.playcdn.de/playlist/35c6d72c622798cc53463a2250130cb0/2/480.m3u8?x=1
 
@@ -1471,8 +1477,11 @@ https://stream.playcdn.de/playlist/ed515ff094eeddc90f4f04e59c44d177/1/480.m3u8
 https://stream.playcdn.de/playlist/NRcnKiALETQufBklJFgiNSMKLGN3SUV3bwYyDgd8CQAdHn93cUBEJyE/42/480.m3u8
 https://www.dropbox.com/scl/fi/7rva26mufdq4vzxu0z7d7/Wonderful-Nightmare-2025.mp4?rlkey=blohh8t65pvfbnwzw315qk98g&st=dznm736c&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tSwMkZs3c2xbHN6Khxsq4ELOO1w.jpg" group-title="▶ VOD ASEAN",Omukade (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rB495nxugPfNlBmFDUjN5kaTy90.jpg" group-title="▶ VOD ASEAN",Omukade (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Omukade%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xVjDFOKoZuPOv1m4Z7NJpQ1gbfF.jpg" group-title="▶ VOD ASEAN",Ghost Board (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Ghost%20Board%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="▶ VOD ASEAN",Anecdotes of Ape Mountain (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Anecdotes%20of%20Ape%20Mountain%20(2026)-1-720.mp4
@@ -1508,14 +1517,13 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Double%20Happiness%20
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uD5jDVVpRs8d9pq1IGzOAxL9H98.jpg" group-title="▶ VOD ASEAN",Doctor X The Movie Final (2024)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Doctor-X%20the%20Movie%202024-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/qgOKHLSdnY3KnuoVIcdksOfDbmv.jpg" group-title="▶ VOD ASEAN",Nightmare Haunted House (2025)
-https://fav.larhu.website/hls/vxzxgwoaqkqfycihmto7zwv6dqpfgglgrut3xg37ewtsvphecwcjhpuhy6oa/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2XlSAWhQxidWSH4snJEtGuJEdNX.jpg" group-title="▶ VOD ASEAN",Haunted House (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Haunted%20House%20(2026)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2ReOSBDXqeTkDSOUiQAeksijLXe.jpg" group-title="▶ VOD ASEAN",The Elite of Devils (2024)
-https://fav.larhu.website/hls/vxzxgygaqkqfycihmto7zafodafilwdtotlzna52xyu7mxgjaupmfsa7l3ua/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7r9Lqza4onv8tAFUrPjWBMIeo2q.jpg" group-title="▶ VOD ASEAN",Seoul Raiders (2005)
-https://fav.larhu.website/hls/vxzxhlykqoqfycihmtnpzuf5brmd6vfsb4cafxcrdcbqhtwzu5lojg2do3xa/index.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eGJJhkGnaWS9oG44Mj0c5tfT4jQ.jpg" group-title="▶ VOD ASEAN",Graveyard Horror (2025)
 https://stream.playcdn.de/playlist/JQooOCAAFjMmfB8jMUI5Km9KeXxwVCAEABU7ExtvZ20mSih2IUo/41/480.m3u8
@@ -1530,7 +1538,7 @@ https://stream.playcdn.de/playlist/JA07JyoMBGxwYUV5bnI6LRAZMBEdJkJ0JmgSenMB/43/4
 https://www.dropbox.com/scl/fi/w1sgibaw3l018uhgvs29w/The-Furious-2026.mp4?rlkey=a6i203fxq268b1ivb35a5pd2m&st=a27l10jn&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gB8aGoVwPFH99orjybV1i0P5e7a.jpg" group-title="▶ VOD ASEAN",Human Resource (2026)
-https://stream.playcdn.de/playlist/Kg0kLytUBSQxPgI-IFV7anJKfGMSPDUFDg4vEyYGMjp2T3wv/41/480.m3u8
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Human%20Resource%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg" group-title="▶ VOD ASEAN",Panda Plan (2024)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Panda%20Plan%202024-1-720.mp4
@@ -2397,6 +2405,7 @@ https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Dosa%20Musyrik%202024
 https://www.dropbox.com/scl/fi/kr54alp8zgti8ymgdyvtn/Dosa.Musyrik.2024.mp4?rlkey=l7sb3qcn05ekuifw4c1rbmzp5&st=b3fcz3x7&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/weSbXv273UHJW6ChOHBRtcJMRwK.jpg" group-title="▶ VOD INDONESIA",Pulau Hantu (2024)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Ghost%20Island%202024-1-720.mp4
 https://www.dropbox.com/scl/fi/8m1m2oauewrzjvnhttf11/Pulau.Hantu.2024.mp4?rlkey=drp7kcrnp07mde0g4zj7kguxo&st=2zv4hl89&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uNAY68Dmh6pzJX6Xauk4rUX343j.jpg" group-title="▶ VOD INDONESIA",Pasar Setan (2024)
@@ -4403,6 +4412,9 @@ https://media-eu.cloudbox.ph/bibamax/Kaka%20(2021)%20-%20720p.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/drFfcbfseYY6mbAT8Oq2A4uxFG4.jpg" group-title="▶ VIVAMAX",Shoot Shoot! Di Ko Siya Titigilan! (2021)
 https://media-eu.cloudbox.ph/bibamax/Shoot%20Shoot%20(2021)%20-%20720p.mp4
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gs5upYpPJcR1xzIYNvkOvy4rEYh.jpg" group-title="▶ VIVAMAX",Babae Sa Butas (2026)
+https://cdn1.khflixcdnvideos.top/Babae.sa.Butas.2025.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/y42Lz1ubi25M9vynDo78RrZSZix.jpg" group-title="▶ VIVAMAX",Masarap Na Bawal (2026)
 https://cdn1.khflixcdnvideos.top/Masarap.Na.Bawal.2026.mp4
