@@ -3,6 +3,8 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ENGLISH",
+
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="▶ VOD ENGLISH",Mayday (2026)
 https://stream.playcdn.de/playlist/e30393245917ce0b10d6c6b4d0d2c68e/1/0.m3u8?x=1
 
@@ -401,6 +403,7 @@ https://stream.playcdn.de/playlist/Lxc7OiQVWiotPBUtNx0_MW9KeXxzVDUtNwMWNRxoCWl7T
 https://stream.playcdn.de/playlist/NQ09JiALHi8lfB8pKlc-LDFVe353T1oDLiQlLTpvDgd6QSotcEpCIg/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="▶ VOD ENGLISH",Ladies First (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Ladies%20First%202026-1-720.mp4
 https://stream.playcdn.de/playlist/LhktJyAKWicrIwQ4bgJmanRVHgsHPTseGg5PdXpVbmkmGw/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/AvvGLXrmby04BXQKjDRhj9FRQL1.jpg" group-title="▶ VOD ENGLISH",Little Brother (2026)
